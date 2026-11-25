@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SelectYours: find a US college that meets your full financial need</title>
 <meta name="description" content="Explore the {{N}} US colleges that meet 100% of demonstrated need for international students. Filter by aid, admit rates, tests, outcomes, rankings and climate. Every number is sourced.">
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.ico" sizes="any">
+<link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/app.css">
@@ -14,7 +16,7 @@
 <body class="page-explore">
 
 <header class="topbar">
-  <a class="logo" href="index.html" aria-label="SelectYours home"><span class="logo-mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 17.5 12 4l8 13.5" /><path d="M7.5 12.5h9" /><circle cx="12" cy="18.5" r="1.6" /></svg></span><span class="logo-word">Select<b>Yours</b></span></a>
+  <a class="logo" href="index.html" aria-label="SelectYours home"><img class="logo-mark" src="assets/logo-96.png" width="34" height="34" alt=""><span class="logo-word">Select<b>Yours</b></span></a>
   <nav class="topnav" aria-label="Main">
     <a href="index.html" aria-current="page">Explore</a>
     <a href="learn.html">Learn</a>
@@ -26,6 +28,7 @@
 </header>
 
 <section class="hero">
+<div class="hero-main">
   <p class="eyebrow"><span class="dot"></span> Fall 2027 entry · {{N}} schools · every number sourced</p>
   <h1>Find the US college that<br><em>covers what you can't.</em></h1>
   <p class="hero-sub">These are the {{N}} US colleges that meet 100% of demonstrated financial need for international students. Search them, filter them on 57 data points and compare them side by side. Every value links to the official page it came from.</p>
@@ -41,6 +44,11 @@
     <div><dt>Need-aware, full need</dt><dd data-count="{{N_AWARE}}">{{N_AWARE}}</dd></div>
     <div><dt>Sourced data points</dt><dd id="stat-points">—</dd></div>
   </dl>
+</div>
+<figure class="hero-mark" aria-hidden="true">
+  <img src="assets/logo-512.png" width="256" height="256" alt="">
+  <figcaption class="logo-word">Select<b>Yours</b></figcaption>
+</figure>
 </section>
 
 <main class="workspace" id="explore">
