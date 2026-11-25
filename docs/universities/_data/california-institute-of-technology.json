@@ -1,0 +1,43 @@
+{
+  "school": "California Institute of Technology",
+  "slug": "california-institute-of-technology",
+  "checked_on": "2026-11-23",
+  "metrics": {
+    "applicants": {"value": 11285, "as_of": "Fall 2025 (CDS 2025-26 C1: 7,772 men + 3,513 women)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "admits": {"value": 428, "as_of": "Fall 2025 (CDS 2025-26 C1: 224 + 204)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "enrolled_first_year": {"value": 248, "as_of": "Fall 2025 (CDS 2025-26 C1: 136 + 112)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "admit_rate": {"value": 3.8, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf", "note": "percent, admits/applicants (3.793)"},
+    "admit_rate_class_of_2030": {"value": null, "note": "Class of 2030 profile is published only as an image (https://www.admissions.caltech.edu/apply/what-we-look-for/class-profile); numbers not readable"},
+    "ed_applicants": {"value": null, "note": "Caltech has no Early Decision as far as pages read; CDS C21 check box unreadable"},
+    "ed_admits": {"value": null, "note": "see ed_applicants"},
+    "ea_applicants": {"value": null, "note": "Restrictive Early Action counts not published in CDS C22 (checked: https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf)"},
+    "ea_admits": {"value": null, "note": "see ea_applicants"},
+    "sat_25": {"value": null, "note": "SAT composite row blank in CDS C9 text; ERW 760 and Math 790 at 25th percentile"},
+    "sat_75": {"value": null, "note": "SAT composite row blank in CDS C9 text; ERW 780 and Math 800 at 75th percentile"},
+    "act_25": {"value": 35, "as_of": "CDS 2025-26 C9 (row alignment uncertain)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "act_75": {"value": 36, "as_of": "CDS 2025-26 C9 (row alignment uncertain)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "pct_submitting_sat": {"value": 78, "as_of": "CDS 2025-26 C9 (190 students)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "pct_submitting_act": {"value": 22, "as_of": "CDS 2025-26 C9 (55 students)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "test_policy_fall_2027": {"value": "required", "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/standardized-tests"},
+    "intl_applicants": {"value": null, "note": "Not published (checked: CDS 2025-26 C1 and Caltech admissions pages)"},
+    "intl_admits": {"value": null, "note": "Not published (checked: CDS 2025-26 C1 and Caltech admissions pages)"},
+    "intl_admit_rate": {"value": null, "note": "Not published"},
+    "intl_aided_count": {"value": 59, "as_of": "CDS 2025-26 H6", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "intl_avg_award": {"value": 85696, "as_of": "CDS 2025-26 H6", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "intl_total_aid": {"value": 5056044, "as_of": "CDS 2025-26 H6", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "intl_undergrad_count": {"value": 154, "as_of": "CDS 2025-26 B2 (nonresidents)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "total_undergrad": {"value": 971, "as_of": "CDS 2025-26 B1", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "total_enrollment": {"value": 2369, "as_of": "CDS 2025-26 B1 (all students incl. graduate)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "coa_total_2026_27": {"value": 98622, "as_of": "2026-27 on campus; excludes $5,388 health plan and $600 one-time orientation fee", "source": "https://www.finaid.caltech.edu/costs"},
+    "tuition_2026_27": {"value": 68574, "as_of": "2026-27", "source": "https://www.finaid.caltech.edu/costs"},
+    "grad_rate_4yr": {"value": 77.4, "as_of": "CDS 2025-26 cohort table: 182 of 235 (our calculation)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "grad_rate_6yr": {"value": 89.79, "as_of": "CDS 2025-26 cohort table (211 of 235)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"},
+    "retention_rate": {"value": 97.37, "as_of": "College Scorecard latest (CDS B22 unreadable)", "source": "https://collegescorecard.ed.gov/school/?110404"},
+    "student_faculty_ratio": {"value": "7:1", "as_of": "CDS 2025-26 I2 (2,369 students, 333 faculty)", "source": "https://iro.caltech.edu/documents/35129/Caltech_CDS_2025-26_August_2026.pdf"}
+  },
+  "notes": [
+    "CDS text layer is partly garbled; numeric values were read, checkboxes (C7, C21, H7) were not.",
+    "Caltech's own pages (Statement of Intent, international REA aid page) allow international applicants to seek aid in Restrictive Early Action; this contradicts the CSV note 'No aid for international Early Action applicants'.",
+    "No aid for international transfer or 3/2 applicants; aid must be requested at first-year application."
+  ]
+}

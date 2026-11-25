@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learn: US admissions and aid for international students · SelectYours</title>
+<meta name="description" content="Every term you meet when applying to US colleges as an international student, explained in plain language: full-need aid, need-blind admission, Early Decision, the CSS Profile, the I-20, OPT and more.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<script>try{var t=localStorage.getItem('sy-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body class="page-learn">
+
+<header class="topbar">
+  <a class="logo" href="index.html" aria-label="SelectYours home"><span class="logo-mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 17.5 12 4l8 13.5" /><path d="M7.5 12.5h9" /><circle cx="12" cy="18.5" r="1.6" /></svg></span><span class="logo-word">Select<b>Yours</b></span></a>
+  <nav class="topnav" aria-label="Main">
+    <a href="index.html">Explore</a>
+    <a href="learn.html" aria-current="page">Learn</a>
+  </nav>
+  <div class="top-actions">
+    <button class="icon-btn" id="theme-btn" type="button" aria-label="Switch light or dark theme" title="Switch theme"><svg viewBox="0 0 24 24"><path class="sun" d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m0-11.32L4.93 4.93m14.14 14.14-1.41-1.41M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z"/><path class="moon" d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg></button>
+    <a class="pill-btn" href="mailto:{{EMAIL}}?subject=SelectYours%20question">Ask a question</a>
+  </div>
+</header>
+
+<section class="learn-hero">
+  <p class="eyebrow"><span class="dot"></span> New to US admissions? Start here.</p>
+  <h1>Everything you need to know,<br><em>in plain words.</em></h1>
+  <p class="hero-sub">Each term you'll meet on SelectYours, and in US applications, explained: what it means, why it matters to you as an international student, and where to find it in our data. General facts link to official US government or College Board pages.</p>
+  <div class="searchbar lsearch">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="lq" type="search" autocomplete="off" placeholder="Search a term: need-aware, ED, CSS Profile, OPT…" aria-label="Search terms">
+    <kbd>/</kbd>
+  </div>
+</section>
+
+<div class="path" aria-label="Your path, step by step">
+  <div class="step"><h3>Build a list</h3><p>Mix reach, target and likelier schools, using admit rates and the Difficulty Index.</p><a href="#difficulty-index">How →</a></div>
+  <div class="step"><h3>Check the money rules</h3><p>Need-blind or need-aware? Loans? How many internationals get aid?</p><a href="#need-blind">How →</a></div>
+  <div class="step"><h3>Pick your rounds</h3><p>ED, EA, REA or RD. A binding choice needs a clear aid picture first.</p><a href="#early-rounds">How →</a></div>
+  <div class="step"><h3>Tests and English</h3><p>SAT/ACT policy, plus TOEFL, IELTS or Duolingo where required.</p><a href="#test-policy">How →</a></div>
+  <div class="step"><h3>File the aid forms</h3><p>CSS Profile or a free alternative, plus income documents, by each school's aid deadline.</p><a href="#css-profile">How →</a></div>
+  <div class="step"><h3>I-20 and visa</h3><p>After you commit, the school issues your I-20 and you apply for the F-1 visa.</p><a href="#i20">How →</a></div>
+</div>
+
+<div class="learn-wrap">
+  <nav class="lnav" aria-label="Sections">
+    <p>Sections</p>
+    <a href="#basics"><span>01</span> The big idea</a>
+    <a href="#applying"><span>02</span> Applying</a>
+    <a href="#numbers"><span>03</span> Admission numbers</a>
+    <a href="#money"><span>04</span> Paying for college</a>
+    <a href="#visa"><span>05</span> Visa and work</a>
+    <a href="#life"><span>06</span> Life and place</a>
+    <a href="#outcomes"><span>07</span> Outcomes</a>
+    <a href="#scores"><span>08</span> Our scores</a>
+    <a href="#trust"><span>09</span> Sources and contact</a>
+  </nav>
+
+  <div class="lcontent">
+    <p class="no-results" id="no-results" hidden>No term matches that search. Try a different word, or <a href="mailto:{{EMAIL}}">ask us</a>.</p>
+
+    <!-- 1 -->
+    <section class="lsec" id="basics">
+      <div class="lsec-h"><span class="num">01</span><div><h2>The big idea</h2><p>How US colleges can make study affordable for you.</p></div></div>
+      <div class="cards">
+        <article class="card wide" id="full-need">
+          <h3>Meets 100% of demonstrated need <span class="aka">full need</span></h3>
+          <p class="tldr">If you're admitted, the college promises to cover the gap between what it costs and what your family can pay, as the college itself calculates it.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>This is what makes a US degree possible for families who could never pay $90,000 a year. All {{N}} schools on SelectYours make this promise to international students, according to their own official pages <a class="cite" href="#src-G13">G13</a>.</dd>
+            <dt>Watch out</dt><dd><ul><li><strong>Full need doesn't mean free.</strong> You still pay the family contribution the school calculates.</li><li><strong>It doesn't always mean no loans.</strong> Some schools fill part of the gap with a loan or a campus job <a class="cite" href="#src-G13">G13</a>.</li><li><strong>Each school uses its own formula,</strong> so two full-need schools can ask the same family for very different amounts.</li></ul></dd>
+          </dl>
+        </article>
+        <article class="card" id="demonstrated-need">
+          <h3>Demonstrated need</h3>
+          <p class="tldr">The cost of attendance minus what the school's formula says your family can pay.</p>
+          <dl><dt>Why it matters</dt><dd>The school sets both numbers <a class="cite" href="#src-G13">G13</a>. Your "need" is the school's judgement, not your own estimate. That's why the aid forms and documents (section 4) matter so much.</dd></dl>
+        </article>
+        <article class="card" id="coa">
+          <h3>Cost of attendance <span class="aka">COA</span></h3>
+          <p class="tldr">The school's full budget for one year: tuition, fees, housing, food, insurance, books, personal costs and sometimes travel.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>It's the "cost" in the need formula, not what an aided student pays. If you get aid, a higher cost of attendance doesn't make the school more expensive for you, because the school fills the gap.</dd>
+            <dt>In SelectYours</dt><dd>The <em>Cost of attendance 2026–27</em> column. It's blank where a school publishes only its billed charges; the profile then gives those charges line by line. Check whether travel and health insurance are included.</dd>
+          </dl>
+          <a class="go" href="index.html#view=money">See costs in Explore →</a>
+        </article>
+        <article class="card wide" id="need-blind">
+          <h3>Need-blind vs need-aware admission</h3>
+          <p class="tldr">Whether asking for financial aid can affect your chance of being admitted.</p>
+          <div class="duo">
+            <div><b>Need-blind ({{N_BLIND}} schools)</b>Your aid request isn't considered when the school decides whether to admit you. Admitted students get full need met.</div>
+            <div><b>Need-aware ({{N_AWARE}} schools)</b>The school has a limited aid budget for internationals, so a large aid request can make admission harder. If you're admitted, it still meets full need <a class="cite" href="#src-G13">G13</a>.</div>
+          </div>
+          <dl>
+            <dt>How to use it</dt><dd>Don't avoid need-aware schools: they are most of the list. Don't build a list of only need-aware reaches, though. And never under-report your need to look "cheaper". Most of these schools say an international student who doesn't ask for aid at the start can't get it later <a class="cite" href="#src-G13">G13</a>. Berea College has a different model: it covers the full cost for every international student it admits.</dd>
+          </dl>
+          <a class="go" href="index.html#preset=blind">Show need-blind schools →</a>
+        </article>
+        <article class="card" id="loans">
+          <h3>No-loan aid</h3>
+          <p class="tldr">Some schools meet your need entirely with grants and campus work, with no loans.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>Loans are money you repay after graduating, and they're hard to manage if you go home to a lower-paid job market.</dd>
+            <dt>In SelectYours</dt><dd><em>States no loans in aid</em> is "Yes" only where the school's aid policy explicitly says so. "Not stated" means we found no such statement, not that loans are used. Check the profile's Aid tab.</dd>
+          </dl>
+          <a class="go" href="index.html#preset=noloans">Show no-loan schools →</a>
+        </article>
+        <article class="card" id="type">
+          <h3>University vs liberal arts college</h3>
+          <p class="tldr">Universities have graduate and professional schools. Liberal arts colleges mainly teach undergraduates.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>Liberal arts colleges usually mean small classes taught by professors, but fewer specialised majors (check for engineering). They're also mostly left out of global rankings such as QS and THE <a class="cite" href="#src-G12">G12</a>. Universities offer more majors and research labs.</dd>
+            <dt>In SelectYours</dt><dd>The <em>Type</em> filter. Compare <em>Undergraduates</em> with <em>Total students</em> to see how many graduate students share the campus.</dd>
+          </dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 2 -->
+    <section class="lsec" id="applying">
+      <div class="lsec-h"><span class="num">02</span><div><h2>Applying</h2><p>Platforms, rounds, tests, English and documents.</p></div></div>
+      <div class="cards">
+        <article class="card wide" id="early-rounds">
+          <h3>Application rounds <span class="aka">ED · ED II · EA · REA · RD</span></h3>
+          <p class="tldr">When you apply, and how much you commit.</p>
+          <div class="scale">
+            <div><b>ED / ED II</b>Early Decision. Binding: if admitted, you attend.</div>
+            <div><b>EA</b>Early Action. An early answer, not binding.</div>
+            <div><b>REA</b>Restrictive Early Action. Not binding, but limits your other early applications.</div>
+            <div><b>RD</b>Regular Decision. The usual round, with answers in spring.</div>
+          </div>
+          <dl>
+            <dt>Why it matters</dt><dd>Early rounds can have higher admit rates. But ED commits you before you can compare aid offers, so for an aid applicant it's only safe once you understand the school's aid formula. Some schools make most international aid offers in Regular Decision; Wesleyan and Carleton are examples <a class="cite" href="#src-G13">G13</a>.</dd>
+            <dt>In SelectYours</dt><dd>The <em>Application rounds</em> filter shows which rounds each school offers for Fall 2027. The <em>Early Decision admit rate</em> column shows ED admits ÷ ED applicants where the school publishes them (CDS item C21).</dd>
+          </dl>
+          <a class="go" href="index.html#view=admissions">See rounds in Explore →</a>
+        </article>
+        <article class="card" id="common-app">
+          <h3>Common App, Coalition, QuestBridge</h3>
+          <p class="tldr">Platforms that send one application to many colleges, plus each college's own questions.</p>
+          <dl><dt>Good to know</dt><dd>QuestBridge's National College Match is open to students at US high schools and to US citizens and permanent residents abroad, so most international students can't use it <a class="cite" href="#src-G11">G11</a>. Each profile's Admissions tab lists the platforms the school accepts.</dd></dl>
+        </article>
+        <article class="card" id="fees">
+          <h3>Application fee and waivers</h3>
+          <p class="tldr">Most schools charge a fee per application; most also offer waivers.</p>
+          <dl><dt>In SelectYours</dt><dd>The <em>Application fee</em> column, where the school states it. Fees add up across ten or more schools. The profile lists the waiver routes, which usually go through the Common App or your counsellor.</dd></dl>
+        </article>
+        <article class="card" id="test-policy">
+          <h3>Testing policy <span class="aka">SAT / ACT</span></h3>
+          <p class="tldr">Whether the SAT or ACT is required, optional or not considered (test-free) for Fall 2027 entry.</p>
+          <dl>
+            <dt>Watch out</dt><dd>"Optional" doesn't always mean optional for everyone. Some schools ask internationals for scores or national exam results instead. The Admissions tab of each profile has the exact rule.</dd>
+            <dt>In SelectYours</dt><dd>The <em>Testing, Fall 2027</em> filter: Required, Optional or Test-free. Hover a value to see the school's wording.</dd>
+          </dl>
+          <a class="go" href="index.html#preset=testopt">Show test-optional schools →</a>
+        </article>
+        <article class="card" id="sat">
+          <h3>SAT and ACT middle 50% <span class="aka">CDS C9</span></h3>
+          <p class="tldr">The middle half of enrolled students' scores: a quarter scored at or below the 25th percentile, and a quarter at or above the 75th.</p>
+          <dl>
+            <dt>How to use it</dt><dd>At or above the 75th percentile, your score helps. Below the 25th at a test-optional school, think about not sending it. Where few students submit (see <em>Enrolled who sent the SAT</em>), the range describes only those who did.</dd>
+          </dl>
+        </article>
+        <article class="card" id="english">
+          <h3>English proficiency tests <span class="aka">TOEFL · IELTS · Duolingo</span></h3>
+          <p class="tldr">Proof of English for applicants whose first language isn't English, unless they qualify for a waiver.</p>
+          <dl>
+            <dt>Watch out</dt><dd>Waiver rules differ: "taught in English" can mean the last two years, the last four, or all of school. Where a school gives both a minimum and a recommended score, aim for the recommended one.</dd>
+            <dt>In SelectYours</dt><dd><em>Accepts Duolingo English Test</em> and <em>TOEFL score cited</em> (the minimum or recommended score as the school states it). Both come from the profile's How to apply section.</dd>
+          </dl>
+        </article>
+        <article class="card" id="documents">
+          <h3>International documents</h3>
+          <p class="tldr">Transcripts and translations, predicted grades, and national exam results (IB, A-levels, CBSE, ISC and others).</p>
+          <dl><dt>Tip</dt><dd>Ask your school early how it sends transcripts and predicted grades. If your board exams come after the deadline, check how and when each school wants the results.</dd></dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 3 -->
+    <section class="lsec" id="numbers">
+      <div class="lsec-h"><span class="num">03</span><div><h2>Admission numbers</h2><p>What the selectivity figures really tell you.</p></div></div>
+      <div class="cards">
+        <article class="card wide" id="cds">
+          <h3>Common Data Set <span class="aka">CDS</span> and IPEDS</h3>
+          <p class="tldr">The <strong>Common Data Set</strong> is a standard questionnaire colleges fill in and publish every year. Each item has a code, such as C1 for admissions or H6 for aid to international students <a class="cite" href="#src-G7">G7</a>. <strong>IPEDS</strong> is the US Department of Education's college data, which we read through College Scorecard.</p>
+          <dl><dt>In SelectYours</dt><dd>Hover any value to see where it came from, for example "CDS 2025–26 C1". "Our calculation" means we divided two published numbers. "re-check" means the source PDF didn't extract cleanly, so confirm the figure in the linked source.</dd></dl>
+        </article>
+        <article class="card" id="admit-rate">
+          <h3>Admit rate <span class="aka">CDS C1</span></h3>
+          <p class="tldr">Admitted ÷ applicants, for all first-year applicants: domestic and international, every round.</p>
+          <dl>
+            <dt>How to use it</dt><dd>The best single measure of selectivity, but not <em>your</em> chance. Below 10%, more than nine in ten applicants are turned down. A balanced list includes schools above about 20–25%. They still meet full need if they admit you.</dd>
+          </dl>
+          <a class="go" href="index.html#preset=reach">Show schools above 15% →</a>
+        </article>
+        <article class="card" id="intl-admit-rate">
+          <h3>International admit rate</h3>
+          <p class="tldr">The admit rate for nonresident (international) applicants only, where the school publishes it.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>Where schools publish both rates, the international rate is usually several times lower than the overall rate. If you'll ask for aid, treat this as your starting point.</dd>
+            <dt>Watch out</dt><dd>Most schools don't publish it, so a missing value doesn't mean the gap is small.</dd>
+          </dl>
+        </article>
+        <article class="card" id="yield">
+          <h3>Yield</h3>
+          <p class="tldr">Enrolled ÷ admitted: the share of admitted students who choose the school.</p>
+          <dl><dt>How to read it</dt><dd>High yield means admitted students mostly say yes, which is a sign of strong demand. Schools with high yield can admit fewer students. SelectYours calculates it from CDS item C1.</dd></dl>
+        </article>
+        <article class="card" id="class-2030">
+          <h3>Class of 2030 figures</h3>
+          <p class="tldr">Newer admit rates for students who entered in Fall 2026, from the school's own announcement.</p>
+          <dl><dt>Watch out</dt><dd>They're more current than the CDS, but announcements may count differently. Compare them with the CDS figure rather than replacing it.</dd></dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 4 -->
+    <section class="lsec" id="money">
+      <div class="lsec-h"><span class="num">04</span><div><h2>Paying for college</h2><p>Forms, aid packages and the numbers that show how generous a school is.</p></div></div>
+      <div class="cards">
+        <article class="card" id="css-profile">
+          <h3>CSS Profile, ISFAA, Certification of Finances</h3>
+          <p class="tldr">The forms schools use to work out your need.</p>
+          <dl>
+            <dt>What they are</dt><dd><ul><li><strong>CSS Profile:</strong> the College Board's online application for non-federal aid <a class="cite" href="#src-G6">G6</a>.</li><li><strong>ISFAA:</strong> a free alternative that some schools accept.</li><li><strong>Certification of Finances:</strong> shows how you'll pay the part aid doesn't cover.</li></ul></dd>
+            <dt>Tip</dt><dd>Not every college accepts the CSS Profile from internationals <a class="cite" href="#src-G6">G6</a>. Several schools on our list accept a free alternative <a class="cite" href="#src-G13">G13</a>. Gather income documents and translations before November.</dd>
+          </dl>
+        </article>
+        <article class="card" id="package">
+          <h3>What an aid package contains</h3>
+          <p class="tldr">Grants (free money), loans (repaid later), a campus job, and sometimes summer savings.</p>
+          <dl><dt>How to compare offers</dt><dd>What you really pay each year = family contribution + loans + work expectation + summer savings. F-1 rules limit on-campus work to 20 hours a week while school is in session <a class="cite" href="#src-G1">G1</a>, so a high work expectation takes a lot of your week.</dd></dl>
+        </article>
+        <article class="card wide" id="h6">
+          <h3>Internationals on aid, average award, aided seats <span class="aka">CDS H6</span></h3>
+          <p class="tldr">How many international undergraduates got aid from the school, the average award and the total. It covers all four years, not one class.</p>
+          <dl>
+            <dt>Why this may be the most useful number</dt><dd>Divide the count by four to get roughly how many aided places there are in each entering class. SelectYours shows this as <em>Aided international seats / class</em>. A school with 40 aided internationals has about 10 aided places a year, shared among applicants from every country.</dd>
+            <dt>Generosity check</dt><dd><em>Avg award ÷ cost</em> compares the average award with the cost of attendance. When the two are close, aided students pay very little.</dd>
+          </dl>
+          <a class="go" href="index.html#preset=aid100">Show schools with 100+ internationals on aid →</a>
+        </article>
+        <article class="card" id="aid-rules">
+          <h3>Aid rules that bite later</h3>
+          <p class="tldr">Renewal, outside scholarships, applying for aid after admission, and transfers.</p>
+          <dl><dt>Watch out</dt><dd>Many schools fix your family's share at admission. Most give little or no aid to international transfer students <a class="cite" href="#src-G13">G13</a>. Your first-year application is usually your one chance at aid. The rules for each school are in its Aid & cost tab.</dd></dl>
+        </article>
+        <article class="card" id="endowment">
+          <h3>Endowment per student</h3>
+          <p class="tldr">The school's invested wealth divided by its number of students.</p>
+          <dl><dt>Why it matters</dt><dd>A rough signal of resources, and of whether a school can keep funding international aid. It's part of our Prestige Index, at 15% <a class="cite" href="#src-G12">G12</a>.</dd></dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 5 -->
+    <section class="lsec" id="visa">
+      <div class="lsec-h"><span class="num">05</span><div><h2>Visa and work</h2><p>The F-1 student visa and what it lets you do.</p></div></div>
+      <div class="cards">
+        <article class="card" id="i20">
+          <h3>Form I-20</h3>
+          <p class="tldr">The "Certificate of Eligibility for Nonimmigrant Student Status". You need it to apply for an F-1 visa <a class="cite" href="#src-G4">G4</a>.</p>
+          <dl><dt>How it works</dt><dd>After you're accepted, your school's Designated School Official (DSO) issues it <a class="cite" href="#src-G4">G4</a>. Schools usually want your final aid award or proof of funds first. A late aid decision can mean a late visa appointment.</dd></dl>
+        </article>
+        <article class="card" id="on-campus-work">
+          <h3>On-campus jobs</h3>
+          <p class="tldr">F-1 students may work on campus, up to 20 hours a week while school is in session <a class="cite" href="#src-G1">G1</a>.</p>
+          <dl><dt>Watch out</dt><dd>Off-campus work outside the programs below is tightly restricted <a class="cite" href="#src-G1">G1</a>. Plan any job in your aid package within these limits.</dd></dl>
+        </article>
+        <article class="card" id="cpt">
+          <h3>CPT <span class="aka">Curricular Practical Training</span></h3>
+          <p class="tldr">Work authorization for internships that are part of your program, approved by your school.</p>
+          <dl><dt>Watch out</dt><dd>Each school applies CPT differently, and it has knock-on effects. <a href="index.html#school=amherst-college">Amherst's</a> page, for example, notes that 12 months or more of full-time CPT removes post-completion OPT. The Life & campus tab of each profile has the school's rules.</dd></dl>
+        </article>
+        <article class="card" id="opt">
+          <h3>OPT <span class="aka">Optional Practical Training</span></h3>
+          <p class="tldr">Permission to work in the US in your field, most often after you graduate. DHS describes the first period as "often for 12 months" <a class="cite" href="#src-G2">G2</a>.</p>
+        </article>
+        <article class="card wide" id="stem-opt">
+          <h3>STEM OPT extension</h3>
+          <p class="tldr">Graduates of eligible STEM degrees can apply for a further 24-month extension of OPT <a class="cite" href="#src-G2">G2</a>.</p>
+          <dl>
+            <dt>Why it matters</dt><dd>If you hope to work in the US after graduating, it can be the most important academic fact. Eligibility depends on your degree's CIP code being on the DHS STEM Designated Degree Program List <a class="cite" href="#src-G3">G3</a>. The same subject can be STEM-coded at one school and not at another, so check the school's list (in its Academics tab) and the CIP code on your I-20.</dd>
+          </dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 6 -->
+    <section class="lsec" id="life">
+      <div class="lsec-h"><span class="num">06</span><div><h2>Life and place</h2><p>Where you'll live for four years.</p></div></div>
+      <div class="cards">
+        <article class="card wide" id="setting">
+          <h3>Setting <span class="aka">IPEDS locale</span></h3>
+          <p class="tldr">A federal classification of the area around campus <a class="cite" href="#src-G5">G5</a>.</p>
+          <div class="scale">
+            <div><b>City</b>large (250k+), midsize or small principal city</div>
+            <div><b>Suburb</b>outside a principal city, inside an urban area</div>
+            <div><b>Town</b>fringe ≤10 mi, distant ≤35 mi, remote &gt;35 mi from an urban area</div>
+            <div><b>Rural</b>fringe, distant or remote from an urban area</div>
+          </div>
+          <dl><dt>How to use it</dt><dd>Remote towns and rural campuses mean campus-centred life, long trips to airports, and the need to check break housing. Cities mean internships during term, more food and faith options, and higher living costs.</dd></dl>
+          <a class="go" href="index.html#view=place">See place and climate →</a>
+        </article>
+        <article class="card" id="climate">
+          <h3>Climate <span class="aka">NOAA 1991–2020 normals</span></h3>
+          <p class="tldr">Thirty-year averages from the weather station nearest campus <a class="cite" href="#src-G9">G9</a>.</p>
+          <dl><dt>In SelectYours</dt><dd>Shown in °C and cm, converted from NOAA's °F and inches; hover for the originals. A winter average low near −10°C, or more than a metre of snow, means serious winter clothing, which is a first-year cost.</dd></dl>
+          <a class="go" href="index.html#preset=mild">Show mild winters →</a>
+        </article>
+        <article class="card" id="intl-students">
+          <h3>International students on campus <span class="aka">CDS B2</span></h3>
+          <p class="tldr">The number and share of degree-seeking undergraduates who are nonresidents.</p>
+          <dl><dt>How to read it</dt><dd>A larger share usually means more support and peers going through the same paperwork. It counts full-paying students too, so for aid use the H6 numbers.</dd></dl>
+        </article>
+        <article class="card" id="size">
+          <h3>Size <span class="aka">CDS B1</span></h3>
+          <p class="tldr">Undergraduates, and all students including graduate students, on the CDS count date.</p>
+          <dl><dt>How to read it</dt><dd>At 2,000 students you'll know many classmates, but there are fewer clubs and course options. At 15,000 there's more choice and more anonymity. Neither is better.</dd></dl>
+        </article>
+        <article class="card" id="safety">
+          <h3>Campus safety</h3>
+          <p class="tldr">Each profile links the school's Annual Security Report, which includes campus crime statistics. The US Department of Education publishes the same data for every school <a class="cite" href="#src-G10">G10</a>.</p>
+          <dl><dt>How to read it</dt><dd>Compare figures per student and in context. A big city campus will always report more than a small rural one, and more reports can also mean reporting works.</dd></dl>
+        </article>
+        <article class="card" id="health-insurance">
+          <h3>Health insurance</h3>
+          <p class="tldr">Most schools require it and offer their own plan, sometimes costing thousands of dollars a year.</p>
+          <dl><dt>Watch out</dt><dd>Waivers usually need a US-compliant plan. At <a href="index.html#school=amherst-college">Amherst</a>, for example, a waiver requires an ACA-compliant plan with providers near campus. Check each school's Life & campus tab, and whether aid covers the plan.</dd></dl>
+        </article>
+      </div>
+    </section>
+
+    <!-- 7 -->
+    <section class="lsec" id="outcomes">
+      <div class="lsec-h"><span class="num">07</span><div><h2>Outcomes</h2><p>Do students finish, and what comes next?</p></div></div>
+      <div class="cards">
+        <article class="card" id="retention">
+          <h3>First-year retention <span class="aka">CDS B22</span></h3>
+          <p class="tldr">The share of first-year students who return for their second year.</p>
+          <dl><dt>How to read it</dt><dd>A rough guide to whether students are happy and supported. All of these schools are high, so small differences mean little.</dd></dl>
+        </article>
+        <article class="card" id="grad-rates">
+          <h3>Graduation rates</h3>
+          <p class="tldr">The share of an entering class that finishes within 4 or 6 years. <em>Completion rate, internationals</em> is the federal 6-year figure for nonresident students.</p>
+          <dl><dt>Why the 4-year rate matters to you</dt><dd>Aid is usually planned around four years, and an extra term costs money. A big gap between the 4- and 6-year rates is worth asking about.</dd></dl>
+        </article>
+        <article class="card" id="earnings">
+          <h3>Median earnings, 10 years</h3>
+          <p class="tldr">Federal data on former students' earnings, ten years after entering.</p>
+          <dl><dt>Big caveat</dt><dd>It covers only students who received US federal aid, so international students aren't included <a class="cite" href="#src-G8">G8</a>. It also reflects each school's mix of majors. Treat it as broad context only.</dd></dl>
+        </article>
+        <article class="card" id="sfr">
+          <h3>Student–faculty ratio <span class="aka">CDS I2</span></h3>
+          <p class="tldr">Students per full-time-equivalent teacher.</p>
+          <dl><dt>Better signal</dt><dd>Class-size counts (CDS I3, in the Academics tab) are more direct, because they count actual class sections.</dd></dl>
+        </article>
+        <article class="card wide" id="fields">
+          <h3>Most common fields of study</h3>
+          <p class="tldr">The share of bachelor's degrees in each broad field, from federal completions data (IPEDS via College Scorecard).</p>
+          <dl><dt>How to use it</dt><dd>It shows what students actually study, which can differ from how a school markets itself. A large share means more courses, faculty and peers in that subject. The Explore filter lets you require, for example, computer science at 10% or more of degrees.</dd></dl>
+          <a class="go" href="index.html#preset=cs">Show schools strong in computer science →</a>
+        </article>
+      </div>
+    </section>
+
+    <!-- 8 -->
+    <section class="lsec" id="scores">
+      <div class="lsec-h"><span class="num">08</span><div><h2>Our scores</h2><p>Two indexes we compute, kept separate on purpose.</p></div></div>
+      <div class="cards">
+        <article class="card" id="prestige-index">
+          <h3>Prestige Index <span class="aka">0–100</span></h3>
+          <p class="tldr">How highly the degree is regarded in the US and worldwide.</p>
+          <div class="scale"><div><b>55%</b>US standing (U.S. News, Forbes)</div><div><b>30%</b>Global (QS, THE, ARWU)</div><div><b>15%</b>Endowment per student</div></div>
+          <dl><dt>Tiers</dt><dd>Tier 1, world-renowned (70+); Tier 2, elite (55–69.9); Tier 3, highly regarded (40–54.9); Tier 4, respected (below 40) <a class="cite" href="#src-G12">G12</a>.</dd>
+          <dt>How to use it</dt><dd>Look at the parts, not just the total. Liberal arts colleges score 0 on the global part because global rankings mostly leave them out. That reflects how well known they are abroad, not their teaching.</dd></dl>
+        </article>
+        <article class="card" id="difficulty-index">
+          <h3>Difficulty Index <span class="aka">0–100</span></h3>
+          <p class="tldr">How hard admission is for an international student who needs aid.</p>
+          <div class="scale"><div><b>60%</b>Admit rate</div><div><b>20%</b>SAT midpoint</div><div><b>10%</b>Need-aware</div><div><b>10%</b>Few aided seats</div></div>
+          <dl><dt>Tiers</dt><dd>Extreme (70+), Very high (55–69.9), High (40–54.9), Competitive (below 40) <a class="cite" href="#src-G12">G12</a>. No school here is easy.</dd>
+          <dt>How to use it</dt><dd>Balance your list: a few Extreme, more Very high and High, and some Competitive.</dd></dl>
+        </article>
+        <article class="card" id="rankings">
+          <h3>Published rankings</h3>
+          <p class="tldr">U.S. News 2027, Forbes 2027, QS 2027 and THE 2027 ranks, as published.</p>
+          <dl><dt>Good to know</dt><dd>U.S. News ranks universities and liberal arts colleges on separate lists, so a #5 college and a #5 university are on different scales. For a range such as "201–250", we show the band and sort by its midpoint.</dd></dl>
+        </article>
+        <article class="card" id="markers">
+          <h3>Distinctions</h3>
+          <p class="tldr">Ivy League, Ivy-Plus, R1 research and AAU membership, the UK HPI visa list, and top-25 for PhDs per graduate. Shown, but not scored.</p>
+          <dl><dt>Why the UK HPI list matters</dt><dd>The UK's High Potential Individual visa accepts graduates of universities on its global list. If you might want to work in the UK, being on that list has a direct effect <a class="cite" href="#src-G14">G14</a>.</dd></dl>
+        </article>
+        <div class="card wide" id="method" style="padding:0;border:0;background:none">
+          <details class="method">
+            <summary>▸ Read the full methodology: formulas, weights, choices and sources</summary>
+            <div class="prose">{{METHODOLOGY}}</div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9 -->
+    <section class="lsec" id="trust">
+      <div class="lsec-h"><span class="num">09</span><div><h2>Sources and contact</h2><p>How we research, and how to reach us.</p></div></div>
+      <div class="cards">
+        <article class="card wide" id="how-we-research">
+          <h3>How the research is done</h3>
+          <dl>
+            <dt>Every fact has a source</dt><dd>Every value links to the document it came from, with its data year. Nothing is filled in from memory or estimated. If a fact isn't published, the profile says "Not published on the pages checked" and names the site and date searched.</dd>
+            <dt>Source priority</dt><dd>The school's own pages and documents come first, then US federal data (IPEDS, College Scorecard, NOAA), then official bodies (College Board, test providers), then reputable press, labelled as press. We never cite consultancy blogs, forums or Wikipedia, and we never get around a site's bot protection or log-in.</dd>
+            <dt>Data year</dt><dd>For applicants in the 2026–27 cycle (Fall 2027 entry). Costs are for 2026–27. Admissions figures are from the CDS 2025–26 or the school's Class of 2030 release.</dd>
+            <dt>Downloads</dt><dd><a href="data/university-metrics.csv">university-metrics.csv</a> · <a href="data/us-full-need-schools-international.csv">all 99 schools checked</a> · per-school data files in <code>data/universities/</code>.</dd>
+          </dl>
+        </article>
+        <article class="card wide">
+          <h3>Sources for this page</h3>
+          <ul class="lsources">
+            <li id="src-G1">[G1] Working in the United States. Study in the States, U.S. Department of Homeland Security. <a href="https://studyinthestates.dhs.gov/students/work/working-in-the-united-states" target="_blank" rel="noopener">studyinthestates.dhs.gov/students/work/working-in-the-united-states</a>. Updated 28 Nov 2023; checked 2026-11-25.</li>
+            <li id="src-G2">[G2] STEM OPT Extension Overview. Study in the States, DHS. <a href="https://studyinthestates.dhs.gov/stem-opt-hub/additional-resources/stem-opt-extension-overview" target="_blank" rel="noopener">studyinthestates.dhs.gov/stem-opt-hub/additional-resources/stem-opt-extension-overview</a>. Updated 28 Apr 2025; checked 2026-11-25.</li>
+            <li id="src-G3">[G3] Eligible CIP Codes for the STEM OPT Extension. Study in the States, DHS. <a href="https://studyinthestates.dhs.gov/stem-opt-hub/additional-resources/eligible-cip-codes-for-the-stem-opt-extension" target="_blank" rel="noopener">studyinthestates.dhs.gov/…/eligible-cip-codes-for-the-stem-opt-extension</a>. Updated 17 Jan 2024; checked 2026-11-25.</li>
+            <li id="src-G4">[G4] Students and the Form I-20. Study in the States, DHS. <a href="https://studyinthestates.dhs.gov/students/prepare/students-and-the-form-i-20" target="_blank" rel="noopener">studyinthestates.dhs.gov/students/prepare/students-and-the-form-i-20</a>. Updated 29 Apr 2025; checked 2026-11-25.</li>
+            <li id="src-G5">[G5] Locale Classifications. National Center for Education Statistics (EDGE). <a href="https://nces.ed.gov/programs/edge/Geographic/LocaleBoundaries" target="_blank" rel="noopener">nces.ed.gov/programs/edge/Geographic/LocaleBoundaries</a>. Checked 2026-11-25.</li>
+            <li id="src-G6">[G6] CSS Profile; International Students. College Board. <a href="https://cssprofile.collegeboard.org/international-students" target="_blank" rel="noopener">cssprofile.collegeboard.org/international-students</a>. Checked 2026-11-25.</li>
+            <li id="src-G7">[G7] Common Data Set 2025–2026 templates. Common Data Set Initiative. <a href="https://groups.google.com/a/collegeboard.org/g/commondataset/c/7leHvGPAYuY" target="_blank" rel="noopener">groups.google.com/a/collegeboard.org/g/commondataset/c/7leHvGPAYuY</a>. Checked 2026-11-23.</li>
+            <li id="src-G8">[G8] College Scorecard Institution-Level Data Documentation. U.S. Department of Education. <a href="https://collegescorecard.ed.gov/assets/InstitutionDataDocumentation.pdf" target="_blank" rel="noopener">collegescorecard.ed.gov/assets/InstitutionDataDocumentation.pdf</a>. Checked 2026-11-23.</li>
+            <li id="src-G9">[G9] U.S. Climate Normals 1991–2020. NOAA National Centers for Environmental Information. <a href="https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020" target="_blank" rel="noopener">ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020</a>. Retrieved 2026-11-23.</li>
+            <li id="src-G10">[G10] Campus Safety and Security. U.S. Department of Education. <a href="https://ope.ed.gov/campussafety" target="_blank" rel="noopener">ope.ed.gov/campussafety</a>. Checked 2026-11-25.</li>
+            <li id="src-G11">[G11] Apply to the National College Match. QuestBridge. <a href="https://www.questbridge.org/apply-to-college/programs/national-college-match/apply" target="_blank" rel="noopener">questbridge.org/apply-to-college/programs/national-college-match/apply</a>. Checked 2026-11-23.</li>
+            <li id="src-G12">[G12] SelectYours methodology, version 1.1 (in this page, above), with a source for every input.</li>
+            <li id="src-G13">[G13] US colleges that meet 100% of demonstrated need for international students. SelectYours research, verified 22 Nov 2026 against each school's official pages (<a href="data/us-full-need-schools-international.csv">data</a>). The official source for each school is in that file and linked from the policy tag in Explore.</li>
+            <li id="src-G14">[G14] High Potential Individual visa: global universities list 2026. UK Home Office. <a href="https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list/high-potential-individual-visa-global-universities-list-2026" target="_blank" rel="noopener">gov.uk/…/high-potential-individual-visa-global-universities-list-2026</a>. Updated 4 Nov 2026.</li>
+          </ul>
+        </article>
+        <div class="card wide contact-card" id="contact">
+          <h3>Spotted a mistake? Want something added?</h3>
+          <p class="muted">Corrections, requests and questions are all welcome. For a correction, include the school, the fact and a link to the official page that shows the right information.</p>
+          <a class="mail" href="mailto:{{EMAIL}}">{{EMAIL}}</a>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<div class="pop" id="pop" role="tooltip" hidden></div>
+<footer class="footer">
+  <div>
+    <a class="logo small" href="index.html"><span class="logo-word">Select<b>Yours</b></span></a>
+    <p>An independent research project. It is not affiliated with any college, ranking or testing organization. Nothing here is legal, immigration or financial advice. Confirm important facts with the school.</p>
+  </div>
+  <div>
+    <p class="foot-h">Found an error? Have a request?</p>
+    <p><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></p>
+    <p class="muted">Built {{BUILT}}</p>
+    {{PRIVACY}}
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+<script src="assets/learn.js"></script>
+{{ANALYTICS}}
+</body>
+</html>

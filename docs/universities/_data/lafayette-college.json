@@ -1,0 +1,130 @@
+{
+    "school":  "Lafayette College",
+    "slug":  "lafayette-college",
+    "unitid":  213385,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  31.16,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1360,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1490,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  31,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2757,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  186,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2757,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  89.7,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  85.4,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  87092,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=213385 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "intl_applicants":  {
+                                            "value":  3913,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                        },
+                    "student_faculty_ratio":  {
+                                                  "value":  10,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                              },
+                    "intl_avg_award":  {
+                                           "value":  64791,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                       },
+                    "admits":  {
+                                   "value":  3289,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                               },
+                    "ed_admits":  {
+                                      "value":  356,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                      "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                  },
+                    "enrolled_first_year":  {
+                                                "value":  696,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                            },
+                    "ed_applicants":  {
+                                          "value":  937,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                          "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                      },
+                    "intl_aided_count":  {
+                                             "value":  111,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                         },
+                    "intl_total_aid":  {
+                                           "value":  7191808,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  10556,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                   },
+                    "intl_admits":  {
+                                        "value":  286,
+                                        "as_of":  "CDS 2025-26 C1 residency (Fall 2025)",
+                                        "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf",
+                                        "note":  "columns matched by row sums (in-state 416 + out-of-state 2,587 + international 286 = 3,289)"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  7.31,
+                                            "as_of":  "CDS 2025-26 C1 residency (Fall 2025); our division 286/3,913",
+                                            "source":  "https://oir.lafayette.edu/wp-content/uploads/sites/196/2026/01/CDS2025-2026.pdf"
+                                        }
+                },
+    "notes":  [
+
+              ]
+}

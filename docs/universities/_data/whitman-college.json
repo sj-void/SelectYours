@@ -1,0 +1,121 @@
+{
+    "school":  "Whitman College",
+    "slug":  "whitman-college",
+    "unitid":  237057,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "applicants":  {
+                                       "value":  6950,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                   },
+                    "admits":  {
+                                   "value":  2791,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  373,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                            },
+                    "admit_rate":  {
+                                       "value":  40.16,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf",
+                                       "note":  "percent"
+                                   },
+                    "intl_applicants":  {
+                                            "value":  3265,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/2025%20Whitman%20CDS.pdf",
+                                            "note":  "residency split from aligned earlier-posted file with identical totals"
+                                        },
+                    "intl_admits":  {
+                                        "value":  253,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/2025%20Whitman%20CDS.pdf"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  7.75,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/2025%20Whitman%20CDS.pdf",
+                                            "note":  "percent, our calculation"
+                                        },
+                    "ed_applicants":  {
+                                          "value":  542,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                          "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                      },
+                    "ed_admits":  {
+                                      "value":  114,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                      "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                  },
+                    "sat_25":  {
+                                   "value":  1310,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf",
+                                   "note":  "sum of section 25th percentiles (ERW 650 + Math 660); composite row inconsistent"
+                               },
+                    "sat_75":  {
+                                   "value":  1510,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf",
+                                   "note":  "sum of section 75th percentiles (ERW 740 + Math 770)"
+                               },
+                    "act_25":  {
+                                   "value":  29,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                               },
+                    "act_75":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                               },
+                    "intl_aided_count":  {
+                                             "value":  201,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  51730,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  10397671,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                       },
+                    "total_undergrad":  {
+                                            "value":  1468,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  1468,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                         },
+                    "grad_rate_6yr":  {
+                                          "value":  75.4,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                      },
+                    "student_faculty_ratio":  {
+                                                  "value":  9.5,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.whitman.edu/documents/offices/institutional-research/2026/CDS-2025-26-Whitman-College-Final-V2.pdf"
+                                              },
+                    "tuition_2026_27":  {
+                                            "value":  68692,
+                                            "as_of":  "2026-27 (catalog)",
+                                            "source":  "https://www.whitman.edu/documents/offices/registrar/2025/2026-2027%20Whitman%20College%20Catalog.pdf"
+                                        }
+                },
+    "notes":  [
+                  "College Scorecard API was rate-limited; all metrics from CDS 2025-26."
+              ]
+}

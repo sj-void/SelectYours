@@ -1,0 +1,142 @@
+{
+    "school":  "Pitzer College",
+    "slug":  "pitzer-college",
+    "unitid":  121257,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "sat_25":  {
+                                   "value":  null,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "not reported"
+                               },
+                    "sat_75":  {
+                                   "value":  null,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "not reported"
+                               },
+                    "act_25":  {
+                                   "value":  null,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  null,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1227,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  1227,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  93.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "coa_scorecard":  {
+                                          "value":  89742,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=121257 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "applicants":  {
+                                       "value":  3683,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                   },
+                    "intl_applicants":  {
+                                            "value":  1352,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                        },
+                    "tuition_2026_27":  {
+                                            "value":  70184,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.pitzer.edu/admission-aid/cost-attendance"
+                                        },
+                    "coa_total_2026_27":  {
+                                              "value":  96706,
+                                              "as_of":  "2026-27 on campus",
+                                              "source":  "https://www.pitzer.edu/admission-aid/cost-attendance"
+                                          },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  33.9,
+                                                     "as_of":  "Class of 2030 admitted profile",
+                                                     "source":  "https://www.pitzer.edu/documents/2026-admitted-class-profile",
+                                                     "note":  "percent; 1,115 admitted"
+                                                 },
+                    "intl_undergrad_count":  {
+                                                 "value":  121,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                             },
+                    "intl_avg_award":  {
+                                           "value":  81824,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                       },
+                    "intl_aided_count":  {
+                                             "value":  46,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                         },
+                    "student_faculty_ratio":  {
+                                                  "value":  9,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                              },
+                    "admit_rate":  {
+                                       "value":  26.85,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026",
+                                       "note":  "percent"
+                                   },
+                    "intl_admit_rate":  {
+                                            "value":  5.99,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026",
+                                            "note":  "percent, our calculation"
+                                        },
+                    "intl_admits":  {
+                                        "value":  81,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                    },
+                    "admits":  {
+                                   "value":  989,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                               },
+                    "grad_rate_6yr":  {
+                                          "value":  81.8,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                      },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "test-free (through 2026-27 cycle)",
+                                                  "as_of":  "current",
+                                                  "source":  "https://www.pitzer.edu/admission-aid/how-apply/first-year-applicants"
+                                              },
+                    "enrolled_first_year":  {
+                                                "value":  273,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                            },
+                    "intl_total_aid":  {
+                                           "value":  3763914,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.pitzer.edu/documents/common-data-set-2025-2026"
+                                       }
+                },
+    "notes":  [
+                  "No current CDS found; admissions metrics from IPEDS via College Scorecard. IPEDS has no SAT/ACT ranges for Pitzer."
+              ]
+}

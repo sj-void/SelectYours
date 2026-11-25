@@ -1,0 +1,160 @@
+{
+    "school":  "University of Pennsylvania",
+    "slug":  "university-of-pennsylvania",
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "applicants":  {
+                                       "value":  null,
+                                       "note":  "Not found: CDS 2025-26 is on a Box share automated tools cannot open (https://ira.upenn.edu/penn-numbers/common-data-set)"
+                                   },
+                    "admits":  {
+                                   "value":  null,
+                                   "note":  "Not found (CDS 2025-26 C1 unreadable)"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  null,
+                                                "note":  "Not found (CDS 2025-26 C1 unreadable); Class of 2030 enrolled is 2415 (see notes)"
+                                            },
+                    "admit_rate":  {
+                                       "value":  null,
+                                       "note":  "Not found for Fall 2025 (CDS unreadable); Press says prior year was 4.9%"
+                                   },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  5.8,
+                                                     "as_of":  "Fall 2026, Daily Pennsylvanian citing Penn (3,575 of 61,264)",
+                                                     "source":  "https://www.thedp.com/article/2026/06/penn-admissions-rate-test-mandatory-tuition-financial-aid",
+                                                     "note":  "percent, admits/applicants; press source"
+                                                 },
+                    "ed_applicants":  {
+                                          "value":  7800,
+                                          "as_of":  "Class of 2030, \u0027over 7,800\u0027 (press)",
+                                          "source":  "https://www.thedp.com/article/2026/06/penn-admissions-rate-test-mandatory-tuition-financial-aid",
+                                          "note":  "lower bound"
+                                      },
+                    "ed_admits":  {
+                                      "value":  null,
+                                      "note":  "Not published by Penn (checked: https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile)"
+                                  },
+                    "ea_applicants":  {
+                                          "value":  null,
+                                          "note":  "Not applicable: Penn has no Early Action"
+                                      },
+                    "ea_admits":  {
+                                      "value":  null,
+                                      "note":  "Not applicable: Penn has no Early Action"
+                                  },
+                    "sat_25":  {
+                                   "value":  1440,
+                                   "as_of":  "Class of 2030 enrolled (Fall 2026), school profile",
+                                   "source":  "https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile"
+                               },
+                    "sat_75":  {
+                                   "value":  1550,
+                                   "as_of":  "Class of 2030 enrolled (Fall 2026), school profile",
+                                   "source":  "https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Class of 2030 enrolled (Fall 2026), school profile",
+                                   "source":  "https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Class of 2030 enrolled (Fall 2026), school profile",
+                                   "source":  "https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile"
+                               },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "required (SAT or ACT; hardship waiver available; same for internationals)",
+                                                  "source":  "https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing"
+                                              },
+                    "total_undergrad":  {
+                                            "value":  10325,
+                                            "as_of":  "Fall 2025, full-time undergraduates (Penn Facts)",
+                                            "source":  "https://www.upenn.edu/about/facts"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  29384,
+                                             "as_of":  "Fall 2025 (Penn Facts)",
+                                             "source":  "https://www.upenn.edu/about/facts"
+                                         },
+                    "coa_total_2026_27":  {
+                                              "value":  99082,
+                                              "as_of":  "2026-27, living on campus, excludes health insurance",
+                                              "source":  "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  65670,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance"
+                                        },
+                    "grad_rate_4yr":  {
+                                          "value":  null,
+                                          "note":  "Not found"
+                                      },
+                    "grad_rate_6yr":  {
+                                          "value":  97,
+                                          "as_of":  "Penn Facts / admissions outcomes page (cohort year not stated)",
+                                          "source":  "https://admissions.upenn.edu/academics/after-penn/outcomes"
+                                      },
+                    "retention_rate":  {
+                                           "value":  null,
+                                           "note":  "Not found (CDS B22 unreadable)"
+                                       },
+                    "student_faculty_ratio":  {
+                                                  "value":  "10:1",
+                                                  "as_of":  "Fall 2025",
+                                                  "source":  "https://www.upenn.edu/about/facts"
+                                              },
+                    "intl_aided_count":  {
+                                             "value":  448,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  80607,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  36111968,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                       },
+                    "intl_applicants":  {
+                                            "value":  17882,
+                                            "as_of":  "CDS 2025-26 C1 residency (Fall 2025)",
+                                            "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                        },
+                    "intl_admits":  {
+                                        "value":  441,
+                                        "as_of":  "CDS 2025-26 C1 residency (Fall 2025)",
+                                        "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  2.47,
+                                            "as_of":  "CDS 2025-26 C1 residency (Fall 2025); our division 441/17,882",
+                                            "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  1337,
+                                                 "as_of":  "CDS 2025-26 B2 (degree-seeking, Fall 2025)",
+                                                 "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                             },
+                    "pct_submitting_sat":  {
+                                               "value":  52,
+                                               "as_of":  "CDS 2025-26 C9",
+                                               "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                           },
+                    "pct_submitting_act":  {
+                                               "value":  18,
+                                               "as_of":  "CDS 2025-26 C9",
+                                               "source":  "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5 (Penn CDS 2025-26, dated 23 June 2026)"
+                                           }
+                },
+    "notes":  [
+                  "CDS 2025-26 could not be read; all CDS-sourced fields are null.",
+                  "Class of 2030: 61,264 applicants, 3,575 admitted, 2,415 enrolled (applicants and enrolled from the school profile, admitted from press).",
+                  "Penn page states 15% of Class of 2030 has a home address outside the US; this is not a citizenship count.",
+                  "Penn is need-aware for internationals (non US/Canada/Mexico citizens and permanent residents) and meets 100% of demonstrated need for those admitted with aid."
+              ]
+}

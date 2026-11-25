@@ -1,0 +1,83 @@
+{
+    "school":  "Hamilton College",
+    "slug":  "hamilton-college",
+    "unitid":  191515,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  13.62,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1450,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 720 + Math 730); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1550,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 770 + Math 780); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2030,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  167,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 8.2% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2030,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  94.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  89.8,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  88270,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=191515 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  14.3,
+                                                     "as_of":  "Class of 2030 (Facts \u0026 Statistics)",
+                                                     "source":  "https://www.hamilton.edu/about/facts",
+                                                     "note":  "percent"
+                                                 },
+                    "coa_total_2026_27":  {
+                                              "value":  95250,
+                                              "as_of":  "2026-27 comprehensive fee",
+                                              "source":  "https://www.hamilton.edu/admission/tuition"
+                                          }
+                },
+    "notes":  [
+                  "No current CDS read (newest found 2024-25); admissions metrics from IPEDS via College Scorecard."
+              ]
+}

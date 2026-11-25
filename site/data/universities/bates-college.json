@@ -1,0 +1,97 @@
+{
+    "school":  "Bates College",
+    "slug":  "bates-college",
+    "unitid":  160977,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  13.32,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1420,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 710 + Math 710); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1530,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 750 + Math 780); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  31,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  34,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1760,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  172,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 9.8% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  1760,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  91.3,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  88.1,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  87520,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=160977 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  73760,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.bates.edu/financial-services/costs-and-payment/"
+                                        },
+                    "coa_total_2026_27":  {
+                                              "value":  96710,
+                                              "as_of":  "2026-27 (single fee $94,560 + $900 books + $1,000 personal + $250 transport, low end; our sum; excludes health plan)",
+                                              "source":  "https://www.bates.edu/financial-services/costs-and-payment/"
+                                          },
+                    "intl_aided_count":  {
+                                             "value":  106,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.bates.edu/research/files/2026/06/CDS_2025-2026.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  84952,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.bates.edu/research/files/2026/06/CDS_2025-2026.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  9000952,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.bates.edu/research/files/2026/06/CDS_2025-2026.pdf"
+                                       }
+                },
+    "notes":  [
+                  "No CDS read; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

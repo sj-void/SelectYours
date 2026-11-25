@@ -1,0 +1,110 @@
+{
+    "school":  "Swarthmore College",
+    "slug":  "swarthmore-college",
+    "unitid":  216287,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  7.52,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf",
+                                       "note":  "percent, 977/12995"
+                                   },
+                    "sat_25":  {
+                                   "value":  1480,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1550,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=216287 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=216287 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1631,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  220,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  1631,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1, all students)",
+                                             "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                         },
+                    "retention_rate":  {
+                                           "value":  94.0,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=216287 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  91.61,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  88696,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=216287 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "as_of":  "Fall 2027",
+                                                  "source":  "https://www.swarthmore.edu/admissions-aid/standardized-testing-policy"
+                                              },
+                    "admits":  {
+                                   "value":  977,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf",
+                                   "note":  "sum of men 472 + women 505 (misaligned text)"
+                               },
+                    "coa_total_2026_27":  {
+                                              "value":  98370,
+                                              "as_of":  "2026-27",
+                                              "source":  "https://www.swarthmore.edu/financial-aid/tuition-books-housing-food-plan-activities-fee"
+                                          },
+                    "intl_aided_count":  {
+                                             "value":  75,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  87434,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                       },
+                    "student_faculty_ratio":  {
+                                                  "value":  8,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                              },
+                    "intl_total_aid":  {
+                                           "value":  6557536,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  12995,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf",
+                                       "note":  "sum of men 5709 + women 7286"
+                                   }
+                },
+    "notes":  [
+
+              ]
+}

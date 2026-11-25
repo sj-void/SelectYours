@@ -1,0 +1,140 @@
+{
+    "school":  "Oberlin College",
+    "slug":  "oberlin-college",
+    "unitid":  204501,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "act_25":  {
+                                   "value":  31,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=204501 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  34,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=204501 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "retention_rate":  {
+                                           "value":  91.0,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=204501 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  80.9,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=204501 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  90692,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=204501 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  70320,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.oberlin.edu/student-accounts/tuition-and-fees"
+                                        },
+                    "admits":  {
+                                   "value":  3873,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://oberlin.edu/media/37695/download?inline="
+                               },
+                    "coa_total_2026_27":  {
+                                              "value":  92162,
+                                              "as_of":  "2026-27 estimate (excl. books, personal, travel, insurance)",
+                                              "source":  "https://www.oberlin.edu/student-accounts/tuition-and-fees"
+                                          },
+                    "intl_applicants":  {
+                                            "value":  4015,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://oberlin.edu/media/37695/download?inline="
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  292,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://oberlin.edu/media/37695/download?inline="
+                                         },
+                    "student_faculty_ratio":  {
+                                                  "value":  9,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://oberlin.edu/media/37695/download?inline="
+                                              },
+                    "intl_undergrad_count":  {
+                                                 "value":  292,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://oberlin.edu/media/37695/download?inline="
+                                             },
+                    "enrolled_first_year":  {
+                                                "value":  768,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://oberlin.edu/media/37695/download?inline="
+                                            },
+                    "ed_admits":  {
+                                      "value":  263,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                      "source":  "https://oberlin.edu/media/37695/download?inline="
+                                  },
+                    "intl_avg_award":  {
+                                           "value":  51631,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://oberlin.edu/media/37695/download?inline="
+                                       },
+                    "intl_admit_rate":  {
+                                            "value":  11.11,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://oberlin.edu/media/37695/download?inline=",
+                                            "note":  "percent, our calculation; school says about 8% for Fall 2026"
+                                        },
+                    "intl_admits":  {
+                                        "value":  446,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://oberlin.edu/media/37695/download?inline="
+                                    },
+                    "intl_total_aid":  {
+                                           "value":  15076286,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://oberlin.edu/media/37695/download?inline="
+                                       },
+                    "sat_75":  {
+                                   "value":  1480,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://oberlin.edu/media/37695/download?inline="
+                               },
+                    "admit_rate":  {
+                                       "value":  33.01,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://oberlin.edu/media/37695/download?inline=",
+                                       "note":  "percent"
+                                   },
+                    "total_enrollment":  {
+                                             "value":  2998,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://oberlin.edu/media/37695/download?inline="
+                                         },
+                    "applicants":  {
+                                       "value":  11732,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://oberlin.edu/media/37695/download?inline="
+                                   },
+                    "ed_applicants":  {
+                                          "value":  668,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                          "source":  "https://oberlin.edu/media/37695/download?inline="
+                                      },
+                    "total_undergrad":  {
+                                            "value":  2998,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://oberlin.edu/media/37695/download?inline="
+                                        },
+                    "sat_25":  {
+                                   "value":  1370,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://oberlin.edu/media/37695/download?inline="
+                               }
+                },
+    "notes":  [
+                  "No CDS read; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

@@ -1,0 +1,162 @@
+{
+    "school":  "Princeton University",
+    "slug":  "princeton-university",
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "ed_applicants":  {
+                                          "value":  null,
+                                          "note":  "Not found; Princeton has no Early Decision (not verified from a page read)"
+                                      },
+                    "ed_admits":  {
+                                      "value":  null,
+                                      "note":  "Not found"
+                                  },
+                    "ea_applicants":  {
+                                          "value":  null,
+                                          "note":  "Not found (Single-Choice Early Action counts not on pages read)"
+                                      },
+                    "ea_admits":  {
+                                      "value":  null,
+                                      "note":  "Not found"
+                                  },
+                    "act_25":  {
+                                   "value":  null,
+                                   "note":  "Not found (CDS C9 unavailable)"
+                               },
+                    "act_75":  {
+                                   "value":  null,
+                                   "note":  "Not found (CDS C9 unavailable)"
+                               },
+                    "pct_submitting_sat":  {
+                                               "value":  null,
+                                               "note":  "Not found (CDS C9 unavailable)"
+                                           },
+                    "pct_submitting_act":  {
+                                               "value":  null,
+                                               "note":  "Not found (CDS C9 unavailable)"
+                                           },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "source":  "https://admission.princeton.edu/apply/standardized-testing",
+                                                  "note":  "Optional for Fall 2027 entry; SAT or ACT required again from the 2027-28 cycle (Fall 2028 entry)"
+                                              },
+                    "coa_total_2026_27":  {
+                                              "value":  98698,
+                                              "as_of":  "2026-27, itemized total excluding transportation and health plan",
+                                              "source":  "https://admission.princeton.edu/cost-aid/fees-payment-options"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  71200,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://admission.princeton.edu/cost-aid/fees-payment-options"
+                                        },
+                    "retention_rate":  {
+                                           "value":  null,
+                                           "note":  "Not found: CDS B22 unavailable"
+                                       },
+                    "applicants":  {
+                                       "value":  42303,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                   },
+                    "admits":  {
+                                   "value":  1868,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  1408,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                            },
+                    "admit_rate":  {
+                                       "value":  4.42,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf",
+                                       "note":  "percent, 1868/42303"
+                                   },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  4.06,
+                                                     "as_of":  "Fall 2026, Princeton Profile (as of 18 Aug 2026)",
+                                                     "source":  "https://profile.princeton.edu/admission-and-costs",
+                                                     "note":  "percent, 1892/46618"
+                                                 },
+                    "sat_25":  {
+                                   "value":  1490,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1560,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                               },
+                    "intl_applicants":  {
+                                            "value":  11679,
+                                            "as_of":  "Class of 2030",
+                                            "source":  "https://profile.princeton.edu/admission-and-costs"
+                                        },
+                    "intl_admits":  {
+                                        "value":  221,
+                                        "as_of":  "Class of 2030",
+                                        "source":  "https://profile.princeton.edu/admission-and-costs"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  1.89,
+                                            "as_of":  "Class of 2030",
+                                            "source":  "https://profile.princeton.edu/admission-and-costs",
+                                            "note":  "percent, our calculation 221/11679"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  597,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  86736,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  51781584,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                       },
+                    "intl_undergrad_count":  {
+                                                 "value":  740,
+                                                 "as_of":  "2026-27 (Princeton Profile, as of 3 Sept 2026)",
+                                                 "source":  "https://profile.princeton.edu/admission-and-costs"
+                                             },
+                    "total_undergrad":  {
+                                            "value":  5759,
+                                            "as_of":  "2026-27 (Princeton Profile)",
+                                            "source":  "https://profile.princeton.edu/admission-and-costs"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  9281,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1, all students)",
+                                             "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                         },
+                    "grad_rate_4yr":  {
+                                          "value":  90.7,
+                                          "as_of":  "Entering class of 2022 (Class of 2026), as of June 2026",
+                                          "source":  "https://profile.princeton.edu/admission-and-costs"
+                                      },
+                    "grad_rate_6yr":  {
+                                          "value":  97.1,
+                                          "as_of":  "Class of 2024 entering cohort, as of June 2026",
+                                          "source":  "https://profile.princeton.edu/admission-and-costs"
+                                      },
+                    "student_faculty_ratio":  {
+                                                  "value":  8,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+                                              }
+                },
+    "notes":  [
+                  "Need-blind for internationals; meets 100% of need with grants; no CSS Profile (uses free PFAA). Consistent with the CSV verdict (A_need_blind_full_need).",
+                  "The CSV says US tax may be withheld on grant aid above tuition for internationals; this was not re-verified from a page read.",
+                  "Princeton\u0027s CDS (ir.princeton.edu) blocks automated access (HTTP 403); fetch it manually and fill B1, B2, B22, C1, C7, C9, C21, C22, F1, H6, I2, I3.",
+                  "The cost-aid page states $90,574 for tuition+fees+housing+food, but the fees page lines sum to $94,648; the itemized fees page is used."
+              ]
+}

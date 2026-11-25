@@ -1,0 +1,378 @@
+{
+    "compiled_on":  "2026-11-23",
+    "method_note":  "NACUBO-Commonfund FY2025 institution listing (xlsx on nacubo.org/Research/2025/Public-NCSE-Tables) could not be retrieved (page has no public links; guessed file URLs 404). Values come from schools own FY2025 reports/announcements/CDS (source priority 2). Fiscal-year-ends other than June 30 are flagged in as_of.",
+    "schools":  {
+                    "harvard-university":  {
+                                               "endowment_usd":  56900000000,
+                                               "as_of":  "2025-06-30",
+                                               "source":  "https://www.hmc.harvard.edu/wp-content/uploads/2025/10/FY25_HMC_Annual_Report.pdf",
+                                               "notes":  "HMC annual report: aggregate endowment $56.9B (rounded). Own report."
+                                           },
+                    "yale-university":  {
+                                            "endowment_usd":  44207025000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://your.yale.edu/media/3134/download?inline=",
+                                            "notes":  "Yale Financial Report 2024-25 audited schedule $44,207,025k; Yale news release says $44.1B (https://news.yale.edu/2025/10/24/yale-reports-investment-return-fiscal-2025). Own report."
+                                        },
+                    "princeton-university":  {
+                                                 "endowment_usd":  36400000000,
+                                                 "as_of":  "2025-06-30",
+                                                 "source":  "https://paw.princeton.edu/article/princeton-endowment-earns-11-return-reaches-364-billion",
+                                                 "notes":  "Princeton Alumni Weekly (university-affiliated) $36.4B; Princeton finance page https://profile.princeton.edu/finances gives managed investments $35.9B. Definitions differ."
+                                             },
+                    "massachusetts-institute-of-technology":  {
+                                                                  "endowment_usd":  27366200000,
+                                                                  "as_of":  "2025-06-30",
+                                                                  "source":  "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2025.pdf",
+                                                                  "notes":  "Treasurer\u0027s Report: market value of endowment investments excl. pledges $27,366.2M (total endowment net assets $27,528M). Own report."
+                                                              },
+                    "california-institute-of-technology":  {
+                                                               "endowment_usd":  4488000000,
+                                                               "as_of":  "2025-09-30",
+                                                               "source":  "https://investments.caltech.edu/documents/34559/Caltech_Endowment_Report_FY25_Final_Pages.pdf",
+                                                               "notes":  "Caltech FY ends Sept 30 not June 30; total endowment portfolio $4.488B. Finance overview (https://finance.caltech.edu/documents/34202/Financial_and_Operations_Overview_-_FY2025.pdf) says endowment investments ~$4.4B. Own report."
+                                                           },
+                    "stanford-university":  {
+                                                "endowment_usd":  40786546000,
+                                                "as_of":  "2025-08-31",
+                                                "source":  "https://bondholder-information.stanford.edu/sites/g/files/sbiybj21416/files/media/file/fy25-annual-financial-report.pdf",
+                                                "notes":  "Stanford FY ends Aug 31; $40.8B incl. real estate (news: https://news.stanford.edu/stories/2025/10/report-investment-portfolio-value-endowment). Own report."
+                                            },
+                    "columbia-university":  {
+                                                "endowment_usd":  15917490000,
+                                                "as_of":  "2025-06-30",
+                                                "source":  "https://www.finance.columbia.edu/sites/www.finance.columbia.edu/files/content/Finance%20Documents/Financial%20Reports/Columbia%20University%20FY25%20Financial%20Statements_signed%2010.23.2025.pdf",
+                                                "notes":  "Audited University endowment value $15,917,490k; IMC statement $15.9B. Own report."
+                                            },
+                    "barnard-college":  {
+                                            "endowment_usd":  557120000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://barnard.edu/sites/default/files/2026-01/2025%20Barnard%20College%20FS.pdf",
+                                            "notes":  "Audited statements: endowment and designated as endowment funds $557,120k (search extraction partly garbled; verify). Own report."
+                                        },
+                    "cornell-university":  {
+                                               "endowment_usd":  11800000000,
+                                               "as_of":  "2025-06-30",
+                                               "source":  "https://statements.cornell.edu/2025/20251028-university-endowment.cfm",
+                                               "notes":  "Cornell announcement $11.8B; audited FY25 statements table (https://finance.cornell.edu/sites/default/files/cornell-financial-report-FY2025.pdf) showed a total ~$11.16B in garbled extraction. Definitions differ. Own report."
+                                           },
+                    "university-of-pennsylvania":  {
+                                                       "endowment_usd":  24800000000,
+                                                       "as_of":  "2025-06-30",
+                                                       "source":  "https://finance.upenn.edu/wp-content/uploads/Penn-Division-of-Finance-FY25-Annual-Report.pdf",
+                                                       "notes":  "Penn annual financial report: endowment $24.8B (facts page says $24.81B). Own report."
+                                                   },
+                    "brown-university":  {
+                                             "endowment_usd":  8000000000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.brown.edu/news/2025-10-17/brown-endowment-return-2025",
+                                             "notes":  "Brown news release: total market value $8.0B (includes other managed assets); audited endowment net assets $7,278,252k (https://controller.brown.edu/sites/default/files/Final_698618B-1A_BrownUniversity_FSA.pdf). Definitions differ. Own report."
+                                         },
+                    "dartmouth-college":  {
+                                              "endowment_usd":  8959701000,
+                                              "as_of":  "2025-06-30",
+                                              "source":  "https://www.dartmouth.edu/finance/documents/financial_management_tab_documents/2025_financialstmt.pdf",
+                                              "notes":  "Audited endowment net assets $8,959,701k; endowment report says $9.0B (https://www.dartmouth.edu/investments/docs/2025_endowment_report.pdf). Own report."
+                                          },
+                    "duke-university":  {
+                                            "endowment_usd":  12318455000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://resources.finance.duke.edu/resources/docs/Financial_Reports2025-26.pdf",
+                                            "notes":  "Duke financial statements endowment market value $12,318,455k. Own report."
+                                        },
+                    "vanderbilt-university":  {
+                                                  "endowment_usd":  10856984000,
+                                                  "as_of":  "2025-06-30",
+                                                  "source":  "https://cdn.vanderbilt.edu/vu-sub/wp-content/uploads/sites/291/2025/10/01145328/2025_VU_Financial_Report.pdf",
+                                                  "notes":  "Vanderbilt FY2025 financial report endowment $10,856,984k. Own report."
+                                              },
+                    "rice-university":  {
+                                            "endowment_usd":  8500000000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://giving.rice.edu/sites/g/files/bxs4641/files/2026-03/FY25%20Report%20for%20Website.pdf",
+                                            "notes":  "Rice FY25 endowment report: total endowment $8.5B incl. directly held real estate; RMC pool alone $7.9B. Own report."
+                                        },
+                    "university-of-chicago":  {
+                                                  "endowment_usd":  10900000000,
+                                                  "as_of":  "2025-06-30",
+                                                  "source":  "https://news.uchicago.edu/story/uchicago-endowment-ended-fy25-109-billion",
+                                                  "notes":  "UChicago announcement $10.9B; university data site lists $10.3B and audited note components sum to ~$10.6B. Definitions differ. Own report."
+                                              },
+                    "northwestern-university":  {
+                                                    "endowment_usd":  15263000000,
+                                                    "as_of":  "2025-08-31",
+                                                    "source":  "https://www.northwestern.edu/investment/reports/io_investmentreport2025_030526.pdf",
+                                                    "notes":  "Northwestern FY ends Aug 31; endowment ~$15.3B ($15,263M). Own report."
+                                                },
+                    "university-of-notre-dame":  {
+                                                     "endowment_usd":  20072670000,
+                                                     "as_of":  "2025-06-30",
+                                                     "source":  "https://controller.nd.edu/assets/638664/fy25_financial_statements_11_14_25_for_upload_to_website_.pdf",
+                                                     "notes":  "Financial statements line \u0027Endowment and funds functioning as endowment\u0027 $20,072,670k; full Endowment Pool assets $25,434,616k (annual report https://finance.nd.edu/assets/645415/annual_report_2025_web.pdf). Own report."
+                                                 },
+                    "johns-hopkins-university":  {
+                                                     "endowment_usd":  13734964000,
+                                                     "as_of":  "2025-06-30",
+                                                     "source":  "https://finance.jhu.edu/wp-content/uploads/sites/38/AnnualReport2025.pdf",
+                                                     "notes":  "Audited total endowment net assets $13,734,964k (not a labelled market-value line). Own report."
+                                                 },
+                    "washington-university-in-st-louis":  {
+                                                              "endowment_usd":  13384861000,
+                                                              "as_of":  "2025-06-30",
+                                                              "source":  "https://endowment.wustl.edu/about/endowment/",
+                                                              "notes":  "WashU endowment site: market value $13.4B; audited net endowment assets $13,384,861k (https://financialservices.wustl.edu/app/uploads/2025/10/FY25-Financial-Statements-Final.pdf). Own report."
+                                                          },
+                    "university-of-rochester":  {
+                                                    "endowment_usd":  3243682000,
+                                                    "as_of":  "2025-06-30",
+                                                    "source":  "https://www.rochester.edu/endowment/fiscal-2025-report/",
+                                                    "notes":  "Endowment market value $3,243,682k in endowment highlights; LTIP total $3.8B; audited \u0027endowment and similar purposes\u0027 $3,315,267k. Own report."
+                                                },
+                    "new-york-university":  {
+                                                "endowment_usd":  7400000000,
+                                                "as_of":  "2025-08-31",
+                                                "source":  "https://www.nyu.edu/content/dam/nyu/investmentOffice/documents/2025-08-31%20NYU%20Endowment%20Fact%20Sheet.pdf",
+                                                "notes":  "NYU FY ends Aug 31; Total Combined Endowment Fund $7.4B. Own report."
+                                            },
+                    "tufts-university":  {
+                                             "endowment_usd":  2760867000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://access.tufts.edu/sites/default/files/FY25%20Annual%20Report%20Consolidated%20Final.pdf",
+                                             "notes":  "Audited total endowment net assets $2,760,867k (~$2.8B per https://alumniandfriends.tufts.edu/sites/default/files/2025-12/Tufts-Endowment-Brochure-FY25.pdf). Own report."
+                                         },
+                    "brandeis-university":  {
+                                                "endowment_usd":  1360000000,
+                                                "as_of":  "2025-06-30",
+                                                "source":  "https://www.brandeis.edu/investment-management/",
+                                                "notes":  "Investment office website: approx $1.36B as of June 2025; FY25 audited statements not retrieved. Own site."
+                                            },
+                    "amherst-college":  {
+                                            "endowment_usd":  3898671000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://www.amherst.edu/system/files/2025-11/Trustees%20of%20Amherst%20College%202025%20Financial%20Statements%20Final.pdf",
+                                            "notes":  "College endowment only; excludes Folger Shakespeare Library endowment $509,691k. Own report."
+                                        },
+                    "williams-college":  {
+                                             "endowment_usd":  3930000000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://investment.williams.edu/files/2025-2026_investment-report_MECH-02.pdf",
+                                             "notes":  "Investment Office report $3.93B; audited balance-sheet endowment line $3,796,601k (https://controller.williams.edu/files/June-30-2025-and-2024.pdf). Own report."
+                                         },
+                    "bowdoin-college":  {
+                                            "endowment_usd":  2911722000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://www.bowdoin.edu/finance/financial-documents/24-25-audited-financial-documents.pdf",
+                                            "notes":  "Audited total endowment net assets. Own report."
+                                        },
+                    "swarthmore-college":  {
+                                               "endowment_usd":  2842100000,
+                                               "as_of":  "2025-06-30",
+                                               "source":  "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Endowment_growth_ch.pdf",
+                                               "notes":  "Swarthmore growth chart $2,842,100k; Investment Office says $2.8B; \u0027by the Numbers\u0027 page says $2.7B. Own site."
+                                           },
+                    "haverford-college":  {
+                                              "endowment_usd":  751200000,
+                                              "as_of":  "2025-06-30",
+                                              "source":  "https://www.haverford.edu/sites/default/files/Office/Finance-Admin/Haverford-Endowment-Letter-2024-2025.pdf",
+                                              "notes":  "Haverford FY2025 endowment letter. Own report."
+                                          },
+                    "bryn-mawr-college":  {
+                                              "endowment_usd":  1300000000,
+                                              "as_of":  "2025-05-31",
+                                              "source":  "https://www.brynmawr.edu/inside/offices-services/finance-administration/financial-reports-budgets/budget-process/plain-text-financial-infographic",
+                                              "notes":  "Bryn Mawr FY ends May 31; infographic says $1.3B (rounded); audited FY25 long-term investments ~$1,308,504k per garbled extraction (https://www.brynmawr.edu/sites/default/files/media/documents/2026-01/2025%20Bryn%20Mawr%20College%20FS_a11y.pdf). Own site."
+                                          },
+                    "pomona-college":  {
+                                           "endowment_usd":  3245675000,
+                                           "as_of":  "2025-06-30",
+                                           "source":  "https://pomonaplan.pomona.edu/sites/pamonaplan/files/2026-05/FY2024-2025%20Pomona%20College%20Financial%20Statements%20Report.pdf",
+                                           "notes":  "Audited endowment net assets total $3,245,675k (sum of the three components in endowment note; PDF layout garbled); endowment page says $3.25B. Own report."
+                                       },
+                    "claremont-mckenna-college":  {
+                                                      "endowment_usd":  1353930000,
+                                                      "as_of":  "2025-06-30",
+                                                      "source":  "https://www.cmc.edu/institutional-research/fact-sheet",
+                                                      "notes":  "CMC Institutional Research fact sheet: $1,353,930,000 at 6/30/2025. Own site."
+                                                  },
+                    "pitzer-college":  {
+                                           "endowment_usd":  177400000,
+                                           "as_of":  "2024 (board chair message, June 2024)",
+                                           "source":  "https://www.pitzer.edu/messages/message-board-chair-donald-p-gould-6242024",
+                                           "notes":  "FY2025 value not found; figure from a June 2024 board message"
+                                       },
+                    "wellesley-college":  {
+                                              "endowment_usd":  2991224000,
+                                              "as_of":  "2024-06-30",
+                                              "source":  "https://www.wellesley.edu/giving/philanthropy-at-wellesley/endowment",
+                                              "notes":  "FY2025 value not found; FY2024 audited endowment net assets (FY24 financial statements: https://www1.wellesley.edu/sites/default/files/assets/departments/controller/files/fy24_wellesleycollege_fs.pdf)"
+                                          },
+                    "smith-college":  {
+                                          "endowment_usd":  2709530000,
+                                          "as_of":  "2025-06-30",
+                                          "source":  "https://www.smith.edu/sites/default/files/2025-12/Fiscal-Year-2025-accessible.pdf",
+                                          "notes":  "Audited endowment total $2,709,530k; investments page says $2.7B. Own report."
+                                      },
+                    "mount-holyoke-college":  {
+                                                  "endowment_usd":  1100000000,
+                                                  "as_of":  "2024-06-30",
+                                                  "source":  "https://www.mtholyoke.edu/directory/departments-offices-centers/investment-office",
+                                                  "notes":  "FY2025 value not found; investment office states $1.1 billion as of June 30, 2024 (rounded)"
+                                              },
+                    "middlebury-college":  {
+                                               "endowment_usd":  1729844000,
+                                               "as_of":  "2025-06-30",
+                                               "source":  "https://www.middlebury.edu/sites/default/files/2026-10/Financial%20Statements%20for%20the%20period%20ending%20June%2030,2026.pdf",
+                                               "notes":  "Value is the June 30, 2025 comparative column of Middlebury\u0027s FY2026 audited statements (endowment net assets at end of FY25: 250,572 + 1,479,272 = $1,729,844k). Middlebury\u0027s endowment page only reports FY24."
+                                           },
+                    "colby-college":  {
+                                          "endowment_usd":  1252278000,
+                                          "as_of":  "2025-06-30",
+                                          "source":  "https://www.colby.edu/wp-content/uploads/2025/10/Endowment-Report-2024-25.pdf",
+                                          "notes":  "Colby FY2025 endowment report: closing market value $1,252,278k net of annuities. Own report."
+                                      },
+                    "bates-college":  {
+                                          "endowment_usd":  485312039,
+                                          "as_of":  "2025-06-30",
+                                          "source":  "https://www.bates.edu/accounting/files/2025/10/Financial-Statements-Bates-College-6-30-25.pdf",
+                                          "notes":  "Audited endowment net assets $485,312,039; college endowment page says $486.3M (https://www.bates.edu/endowment/). Own report."
+                                      },
+                    "hamilton-college":  {
+                                             "endowment_usd":  1497031000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.hamilton.edu/offices/business/financial-statements/2025",
+                                             "notes":  "Audited endowment note total $1,497,031k; facts page says $1.47B. Own report."
+                                         },
+                    "colgate-university":  {
+                                               "endowment_usd":  1340862000,
+                                               "as_of":  "2025-06-30",
+                                               "source":  "https://www.colgate.edu/media/69051/download?attachment=",
+                                               "notes":  "Audited FY25 statements: endowment (separately invested + pooled) $1,340,862k; total endowment funds $1,344,792k; President\u0027s Report says $1.341B. Own report."
+                                           },
+                    "vassar-college":  {
+                                           "endowment_usd":  1393805601,
+                                           "as_of":  "2025-06-30",
+                                           "source":  "https://offices.vassar.edu/finance-and-administration/wp-content/uploads/sites/26/2025/10/Vassar2025.pdf",
+                                           "notes":  "Audited Note 7 total endowment $1,393,805,601. Own report."
+                                       },
+                    "wesleyan-university":  {
+                                                "endowment_usd":  1641277000,
+                                                "as_of":  "2025-06-30",
+                                                "source":  "https://www.wesleyan.edu/finance/annualreporting/2024%20-%202025%20Annual%20Financial%20Statements1.pdf",
+                                                "notes":  "Audited total endowment assets $1,641,277k. Own report."
+                                            },
+                    "trinity-college":  {
+                                            "endowment_usd":  912003441,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://www.trincoll.edu/accounting/wp-content/uploads/sites/118/2025/10/Trinity-College-FY25-Final-Financial-Statements.pdf",
+                                            "notes":  "Audited endowment net assets $912,003,441; endowment funds held by Trinity $859,015,671 plus $34,188,362 held in trust by others. Own report."
+                                        },
+                    "connecticut-college":  {
+                                                "endowment_usd":  510900000,
+                                                "as_of":  "2025-06-30",
+                                                "source":  "https://www.conncoll.edu/annual-report/",
+                                                "notes":  "Annual Report 2025: pooled endowment ~$510.9M, excludes perpetual trusts. Own report."
+                                            },
+                    "davidson-college":  {
+                                             "endowment_usd":  1391954042,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.davidson.edu/media/14605/download?attachment=",
+                                             "notes":  "Audited endowed net assets $1,391,954,042; website says $1.6B as of Dec 31 2025 (different date). Own report."
+                                         },
+                    "washington-and-lee-university":  {
+                                                          "endowment_usd":  2188000000,
+                                                          "as_of":  "2025-06-30",
+                                                          "source":  "https://my.wlu.edu/Documents/treasurer/2024-2025-financial-statements.pdf",
+                                                          "notes":  "Total $2.188B = $1.476B managed by university + $712.6M trusts held by others. Managed-only figure is $1.476B. Own report."
+                                                      },
+                    "university-of-richmond":  {
+                                                   "endowment_usd":  3493990000,
+                                                   "as_of":  "2025-06-30",
+                                                   "source":  "https://universityfinance.richmond.edu/common/pdf/accounting/financial-statements/FY25-University-of-Richmond-Consolidated-Financial-Statements.pdf",
+                                                   "notes":  "Audited total endowment net assets $3,493,990k (includes beneficial interest in perpetual trusts $36,408k); giving site says $3.49B. Own report."
+                                               },
+                    "grinnell-college":  {
+                                             "endowment_usd":  2847380000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.grinnell.edu/news/grinnell-college-reports-endowment-fiscal-year-2024-2025-results",
+                                             "notes":  "College report: almost $2.85B at 6/30/2025; $2,847,380k per S\u0026P table cited in search result. Own report."
+                                         },
+                    "carleton-college":  {
+                                             "endowment_usd":  1334429848,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.carleton.edu/business/gen-acct/endow-fund/",
+                                             "notes":  "Carleton endowment page market value $1,334,429,848 at June 30, 2025. Own site."
+                                         },
+                    "macalester-college":  {
+                                               "endowment_usd":  865860000,
+                                               "as_of":  "2025-05-31",
+                                               "source":  "https://www.macalester.edu/cfo/wp-content/uploads/sites/320/Macalester-College-FY25-Financial-Statements.pdf",
+                                               "notes":  "Macalester FY ends May 31; audited endowment net assets total $865,860k (Note 10). Own report."
+                                           },
+                    "colorado-college":  {
+                                             "endowment_usd":  1108987501,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.coloradocollege.edu/offices/finance/college-financial-information/endowment.html",
+                                             "notes":  "Market value of endowment incl. perpetual trusts $1,108,987,501; audited endowment net assets note $1,064,107k (https://m.coloradocollege.edu/offices/controller/documents/The%20Colorado%20College%202025%20Audit%20FS%20Short%20Form%20Final.pdf). Own site."
+                                         },
+                    "reed-college":  {
+                                         "endowment_usd":  885000000,
+                                         "as_of":  "2025-06-30",
+                                         "source":  "https://www.reed.edu/investments/assets/downloads/endowment-public-report-fy-2025.pdf",
+                                         "notes":  "Reed FY2025 endowment report ~$885M; audited endowment net assets ~$864M. Own report."
+                                     },
+                    "whitman-college":  {
+                                            "endowment_usd":  815600000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://www.whitman.edu/documents/offices/business-office/2025/2025-financial-statements.pdf",
+                                            "notes":  "Audited endowment $815.6M; catalog \u0027at a glance\u0027 says \u003e$847M incl. outside trusts (https://catalog.whitman.edu/more/whitman-college-at-a-glance). Own report."
+                                        },
+                    "lafayette-college":  {
+                                              "endowment_usd":  1199913000,
+                                              "as_of":  "2025-06-30",
+                                              "source":  "https://finadmin.lafayette.edu/wp-content/uploads/sites/133/2025/10/Lafayette-College_FY2025-Financial-Statements.pdf",
+                                              "notes":  "Audited total managed endowment net assets $1,199,913k (board-designated 297,804 + spendable 565,084 + perpetual 337,025). Own report."
+                                          },
+                    "franklin-and-marshall-college":  {
+                                                          "endowment_usd":  472300000,
+                                                          "as_of":  "2024-06-30",
+                                                          "source":  "https://www.fandm.edu/giving/annual-report-of-giving/2023-2024.html",
+                                                          "notes":  "FY2025 value not found; Annual Report of Giving 2023-24 (about $472.3 million)"
+                                                      },
+                    "skidmore-college":  {
+                                             "endowment_usd":  519900000,
+                                             "as_of":  "2025-06-30",
+                                             "source":  "https://www.skidmore.edu/ir/facts/common/cds-2025-26.pdf",
+                                             "notes":  "Skidmore CDS 2025-26: endowment market value $519.9M as of June 30, 2025 ($509.0M at May 31, 2025 fiscal year end). Self-reported CDS, not audited."
+                                         },
+                    "college-of-the-holy-cross":  {
+                                                      "endowment_usd":  1207691000,
+                                                      "as_of":  "2025-06-30",
+                                                      "source":  "https://www.holycross.edu/document/holy-cross-2025-financial-statements",
+                                                      "notes":  "Audited endowment net assets $1,207,691k; at-a-glance page says $1.21B. Own report."
+                                                  },
+                    "denison-university":  {
+                                               "endowment_usd":  1100000000,
+                                               "as_of":  "undated (Fast Facts: over $1.1 billion)",
+                                               "source":  "https://denison.edu/fast-facts",
+                                               "notes":  "FY2025 value not found; approximate lower bound from Fast Facts"
+                                           },
+                    "oberlin-college":  {
+                                            "endowment_usd":  1480794000,
+                                            "as_of":  "2025-06-30",
+                                            "source":  "https://www.oberlin.edu/investment/assets-and-performance",
+                                            "notes":  "Total endowed funds $1,480.8M; matches annual financial information report. Own site."
+                                        },
+                    "rhodes-college":  {
+                                           "endowment_usd":  449000000,
+                                           "as_of":  "2025-06-30",
+                                           "source":  "https://www.rhodes.edu/sites/default/files/2025-12/Rhodes_VPEM_Position_Announcement_NES%20_12_05_25.pdf",
+                                           "notes":  "Only dated figure found: job announcement states endowment of $449M as of June 30, 2025; audited statements not located. Lower confidence."
+                                       },
+                    "berea-college":  {
+                                          "endowment_usd":  1626128100,
+                                          "as_of":  "2024-06-30",
+                                          "source":  "https://magazine.berea.edu/uncategorized/statements-of-financial-position-and-statements-of-activities-2/",
+                                          "notes":  "FY2025 value not found; donor-restricted $823,255,700 + board-designated $802,872,400 (our sum)"
+                                      }
+                }
+}

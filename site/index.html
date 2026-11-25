@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SelectYours: find a US college that meets your full financial need</title>
+<meta name="description" content="Explore the 62 US colleges that meet 100% of demonstrated need for international students. Filter by aid, admit rates, tests, outcomes, rankings and climate. Every number is sourced.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<script>try{var t=localStorage.getItem('sy-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body class="page-explore">
+
+<header class="topbar">
+  <a class="logo" href="index.html" aria-label="SelectYours home"><span class="logo-mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 17.5 12 4l8 13.5" /><path d="M7.5 12.5h9" /><circle cx="12" cy="18.5" r="1.6" /></svg></span><span class="logo-word">Select<b>Yours</b></span></a>
+  <nav class="topnav" aria-label="Main">
+    <a href="index.html" aria-current="page">Explore</a>
+    <a href="learn.html">Learn</a>
+  </nav>
+  <div class="top-actions">
+    <button class="icon-btn" id="theme-btn" type="button" aria-label="Switch light or dark theme" title="Switch theme"><svg viewBox="0 0 24 24"><path class="sun" d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m0-11.32L4.93 4.93m14.14 14.14-1.41-1.41M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z"/><path class="moon" d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg></button>
+    <a class="pill-btn" href="mailto:shivamjoshi.bios@gmail.com?subject=SelectYours%20correction%20or%20request">Corrections</a>
+  </div>
+</header>
+
+<section class="hero">
+  <p class="eyebrow"><span class="dot"></span> Fall 2027 entry · 62 schools · every number sourced</p>
+  <h1>Find the US college that<br><em>covers what you can't.</em></h1>
+  <p class="hero-sub">These are the 62 US colleges that meet 100% of demonstrated financial need for international students. Search them, filter them on 57 data points and compare them side by side. Every value links to the official page it came from.</p>
+  <div class="searchbar">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" autocomplete="off" placeholder="Search a college, city or state…" aria-label="Search colleges">
+    <kbd>/</kbd>
+  </div>
+  <div class="presets" id="presets" aria-label="Quick filters"></div>
+  <dl class="stats" id="stats">
+    <div><dt>Full-need colleges</dt><dd data-count="62">62</dd></div>
+    <div><dt>Need-blind for internationals</dt><dd data-count="10">10</dd></div>
+    <div><dt>Need-aware, full need</dt><dd data-count="51">51</dd></div>
+    <div><dt>Sourced data points</dt><dd id="stat-points">—</dd></div>
+  </dl>
+</section>
+
+<main class="workspace" id="explore">
+  <aside class="filters" id="filters" aria-label="Filters">
+    <div class="filters-head">
+      <h2>Filters <span class="badge" id="filter-count" hidden>0</span></h2>
+      <button type="button" class="link-btn" id="reset-filters">Reset all</button>
+      <button type="button" class="icon-btn close-filters" id="close-filters" aria-label="Close filters"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    </div>
+    <div class="filter-find"><input id="filter-find" type="search" placeholder="Find a filter…" aria-label="Find a filter"></div>
+    <div id="filter-groups"></div>
+    <div class="filters-foot"><button type="button" class="btn-primary" id="filters-done">Show <span id="count-f">62</span> schools</button></div>
+  </aside>
+
+  <section class="results" aria-label="Results">
+    <div class="toolbar">
+      <div class="tb-left">
+        <button type="button" class="pill-btn show-filters" id="open-filters"><svg viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4"/></svg> Filters <span class="badge" id="filter-count-m" hidden>0</span></button>
+        <p class="count"><strong id="count">62</strong> <span id="count-label">schools</span></p>
+        <p class="hidden-note" id="missing-note" hidden></p>
+      </div>
+      <div class="tb-right">
+        <div class="sort-m"><label for="sort-m-k">Sort</label><select id="sort-m-k" class="fsel"></select><button type="button" class="icon-btn" id="sort-m-d" aria-label="Switch sort direction">↓</button></div>
+        <div class="views" role="tablist" aria-label="Column sets" id="views"></div>
+        <div class="menu-wrap">
+          <button type="button" class="pill-btn" id="cols-btn" aria-expanded="false"><svg viewBox="0 0 24 24"><path d="M4 5h16v14H4zM10 5v14M16 5v14"/></svg> Columns</button>
+          <div class="menu cols-menu" id="cols-menu" hidden></div>
+        </div>
+        <button type="button" class="pill-btn" id="export-btn" title="Download the filtered table as CSV, with a source link for every value"><svg viewBox="0 0 24 24"><path d="M12 4v11m0 0-4-4m4 4 4-4M5 19h14"/></svg> CSV</button>
+      </div>
+    </div>
+    <div class="chips" id="active-chips"></div>
+    <div class="table-shell">
+      <table class="grid" id="grid"><thead></thead><tbody></tbody></table>
+      <div class="empty-state" id="empty" hidden>
+        <p class="big">No college matches all of these filters.</p>
+        <p>Try loosening a range, or <button type="button" class="link-btn" id="empty-reset">reset all filters</button>.</p>
+      </div>
+    </div>
+    <p class="table-foot">Click a row to open the full profile. Hover a value to see its data year, and click <span class="src-demo">↗</span> to open the original source. A dash means the figure isn't published on the pages we checked. Temperatures are shown in °C and snowfall in cm, converted from the NOAA figures in °F and inches.</p>
+  </section>
+</main>
+
+<div class="tray" id="tray" hidden>
+  <div class="tray-items" id="tray-items"></div>
+  <button type="button" class="btn-primary" id="tray-compare">Compare</button>
+  <button type="button" class="link-btn" id="tray-clear">Clear</button>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" aria-label="School profile" aria-hidden="true" tabindex="-1"></aside>
+<div class="modal" id="compare-modal" role="dialog" aria-modal="true" aria-label="Compare schools" hidden></div>
+<div class="pop" id="pop" role="tooltip" hidden></div>
+
+<footer class="footer">
+  <div>
+    <a class="logo small" href="index.html"><span class="logo-word">Select<b>Yours</b></span></a>
+    <p>An independent research project. It is not affiliated with any college, ranking or testing organization. Policies change every year, so confirm with the school before you decide.</p>
+  </div>
+  <div>
+    <p class="foot-h">Found an error? Have a request?</p>
+    <p><a href="mailto:shivamjoshi.bios@gmail.com">shivamjoshi.bios@gmail.com</a></p>
+    <p class="muted">Data for the 2026–27 cycle · built 2026-11-25 · <a href="data/university-metrics.csv">download data</a></p>
+    <p class="muted">We count visits anonymously with GoatCounter: no cookies, no IP addresses or personal data stored. Your browser keeps one "visited before" flag so you are counted only once.</p>
+  </div>
+</footer>
+
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+<script data-goatcounter="https://selectyours.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script src="assets/visit.js"></script>
+</body>
+</html>

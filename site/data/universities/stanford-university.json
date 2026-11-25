@@ -1,0 +1,43 @@
+{
+  "school": "Stanford University",
+  "slug": "stanford-university",
+  "checked_on": "2026-11-23",
+  "metrics": {
+    "applicants": {"value": 60646, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "admits": {"value": 2302, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "enrolled_first_year": {"value": 1839, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "admit_rate": {"value": 3.8, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view", "note": "percent, admits/applicants (3.796)"},
+    "admit_rate_class_of_2030": {"value": null, "note": "Not found (no school release located)"},
+    "ed_applicants": {"value": null, "note": "Stanford does not offer Early Decision (CDS C21: No)"},
+    "ed_admits": {"value": null, "note": "Stanford does not offer Early Decision (CDS C21: No)"},
+    "ea_applicants": {"value": null, "note": "Restrictive Early Action counts not published in CDS C22"},
+    "ea_admits": {"value": null, "note": "Restrictive Early Action counts not published in CDS C22"},
+    "sat_25": {"value": 1520, "as_of": "CDS 2025-26 C9 composite", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "sat_75": {"value": 1570, "as_of": "CDS 2025-26 C9 composite", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "act_25": {"value": 34, "as_of": "CDS 2025-26 C9 composite", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "act_75": {"value": 36, "as_of": "CDS 2025-26 C9 composite", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "pct_submitting_sat": {"value": 55.57, "as_of": "CDS 2025-26 C9 (1,022 students)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "pct_submitting_act": {"value": 20.94, "as_of": "CDS 2025-26 C9 (385 students)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "test_policy_fall_2027": {"value": "required", "source": "https://admission.stanford.edu/apply/first-year/testing.html"},
+    "intl_applicants": {"value": null, "note": "Not published (CDS 2025-26 C1 residency breakdown blank)"},
+    "intl_admits": {"value": null, "note": "Not published (CDS 2025-26 C1 residency breakdown blank)"},
+    "intl_admit_rate": {"value": null, "note": "Not published"},
+    "intl_aided_count": {"value": 260, "as_of": "CDS 2025-26 H6", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "intl_avg_award": {"value": 85424, "as_of": "CDS 2025-26 H6", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "intl_total_aid": {"value": 22210145, "as_of": "CDS 2025-26 H6", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "intl_undergrad_count": {"value": 965, "as_of": "CDS 2025-26 B2 (nonresidents; degree-seeking and total undergraduate columns)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "total_undergrad": {"value": 7346, "as_of": "CDS 2025-26 B1 (7,289 degree-seeking)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "total_enrollment": {"value": 18121, "as_of": "CDS 2025-26 B1 (all students incl. graduate)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "coa_total_2026_27": {"value": 97545, "as_of": "2026-27 standard budget; international budgets add Cardinal Care (amount not given)", "source": "https://financialaid.stanford.edu/undergrad/budget/index.html"},
+    "tuition_2026_27": {"value": 67731, "as_of": "2026-27", "source": "https://financialaid.stanford.edu/undergrad/budget/index.html"},
+    "grad_rate_4yr": {"value": 45.4, "as_of": "CDS 2025-26 Fall 2019 cohort: 770 of 1,698 (our calculation); College Scorecard also 45.35", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "grad_rate_6yr": {"value": 91.64, "as_of": "CDS 2025-26 Fall 2019 cohort", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "retention_rate": {"value": 97.46, "as_of": "CDS 2025-26 B22 (Fall 2024 cohort)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"},
+    "student_faculty_ratio": {"value": "10:1", "as_of": "CDS 2025-26 I2 (14,211 students, 1,359 faculty)", "source": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"}
+  },
+  "notes": [
+    "CDS is hosted on a Google Drive link published by Stanford IRDS (https://irds.stanford.edu/data-findings/cds).",
+    "Stanford's financial aid office lists an international transfer aid checklist; CSV does not mention transfer aid for Stanford.",
+    "Four-year graduation rate of 45.4% is as published in CDS and College Scorecard; not explained in sources."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+    "school":  "Colorado College",
+    "slug":  "colorado-college",
+    "unitid":  126678,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  18.47,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1230,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 640 + Math 590); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1460,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 730 + Math 730); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  29,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2014,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  103,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 5.1% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2039,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  93.6,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  86.2,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  90929,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=126678 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "intl_avg_award":  {
+                                           "value":  52713,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.coloradocollege.edu/offices/ipe/documents/CDS-2025-2026_PDF_Final.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  5113171,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.coloradocollege.edu/offices/ipe/documents/CDS-2025-2026_PDF_Final.pdf"
+                                       },
+                    "intl_aided_count":  {
+                                             "value":  null,
+                                             "note":  "CDS 2025-26 H6 prints 73, but total/average implies about 97; not used until checked"
+                                         }
+                },
+    "notes":  [
+                  "No CDS read; admissions metrics from IPEDS via College Scorecard. International page: only a handful of internationals fully funded each year."
+              ]
+}

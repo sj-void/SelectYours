@@ -1,0 +1,82 @@
+{
+    "school":  "College of the Holy Cross",
+    "slug":  "college-of-the-holy-cross",
+    "unitid":  166124,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  17.61,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1240,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 630 + Math 610); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1410,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 710 + Math 700); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  27,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  32,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  3106,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  100,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 3.2% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  3106,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  94.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  86.4,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  84988,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=166124 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "coa_total_2026_27":  {
+                                              "value":  91740,
+                                              "as_of":  "2026-27 billed (excl. insurance, books, travel)",
+                                              "source":  "https://catalog.holycross.edu/about/expenses/"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  70220,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://catalog.holycross.edu/about/expenses/"
+                                        }
+                },
+    "notes":  [
+                  "No CDS read; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

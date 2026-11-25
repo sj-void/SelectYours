@@ -1,0 +1,82 @@
+{
+    "school":  "Claremont McKenna College",
+    "slug":  "claremont-mckenna-college",
+    "unitid":  112260,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  9.59,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1470,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 720 + Math 750); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1560,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 770 + Math 790); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1388,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  206,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 14.8% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  1391,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  98.1,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  89.9,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  91510,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=112260 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "coa_total_2026_27":  {
+                                              "value":  101990,
+                                              "as_of":  "2026-27",
+                                              "source":  "https://www.cmc.edu/financial-aid/college-costs-and-payments"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  75300,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.cmc.edu/financial-aid/college-costs-and-payments"
+                                        }
+                },
+    "notes":  [
+                  "Newest CDS linked on CMC site is 2023-24; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

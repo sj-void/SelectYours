@@ -1,0 +1,129 @@
+{
+    "school":  "Vassar College",
+    "slug":  "vassar-college",
+    "unitid":  197133,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  20.93,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf",
+                                       "note":  "percent, 2327/11118"
+                                   },
+                    "sat_25":  {
+                                   "value":  1460,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1520,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=197133 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=197133 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2514,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  155,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2514,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                         },
+                    "retention_rate":  {
+                                           "value":  94.9,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=197133 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  88,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  91520,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=197133 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  76140,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://offices.vassar.edu/student-financial-services/tuition/"
+                                        },
+                    "admits":  {
+                                   "value":  2327,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                               },
+                    "coa_total_2026_27":  {
+                                              "value":  99210,
+                                              "as_of":  "2026-27 (our sum of billed charges + allowance)",
+                                              "source":  "https://offices.vassar.edu/student-financial-services/tuition/"
+                                          },
+                    "intl_applicants":  {
+                                            "value":  3705,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  57,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                         },
+                    "student_faculty_ratio":  {
+                                                  "value":  7,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                              },
+                    "enrolled_first_year":  {
+                                                "value":  697,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                            },
+                    "intl_avg_award":  {
+                                           "value":  88709,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                       },
+                    "intl_admit_rate":  {
+                                            "value":  4.99,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf",
+                                            "note":  "percent, our calculation 185/3705"
+                                        },
+                    "intl_admits":  {
+                                        "value":  185,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                    },
+                    "intl_total_aid":  {
+                                           "value":  5056441,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  11118,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://offices.vassar.edu/institutional-research/wp-content/uploads/sites/23/2026/03/Vassar_College_CDS_2025-2026.pdf"
+                                   }
+                },
+    "notes":  [
+
+              ]
+}

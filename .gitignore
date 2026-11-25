@@ -1,0 +1,19 @@
+# Private working notes and tool config
+CLAUDE.md
+unfinished.md
+.claude/
+
+# Third-party source documents (cited by URL in the profiles, not redistributed)
+*.pdf
+
+# Scratch and OS files
+tmp/
+temp/
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Vercel CLI
+.vercel/

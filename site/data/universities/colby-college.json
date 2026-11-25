@@ -1,0 +1,98 @@
+{
+    "school":  "Colby College",
+    "slug":  "colby-college",
+    "unitid":  161086,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  7.09,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1460,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 720 + Math 740); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1550,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 760 + Math 790); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  32,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  34,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2407,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  269,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 11.2% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2407,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  93.6,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  87.0,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  89190,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161086 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  72590,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.colby.edu/academics/course-catalogue/admission-fees-about-colby/fees-and-charges/"
+                                        },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "as_of":  "Fall 2027",
+                                                  "source":  "https://afa.colby.edu/apply/requirements/"
+                                              },
+                    "coa_total_2026_27":  {
+                                              "value":  97020,
+                                              "as_of":  "2026-27 (low end of $97,020-$98,270 range)",
+                                              "source":  "https://afa.colby.edu/cost-and-aid/tuition-and-fees/"
+                                          },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  8,
+                                                     "as_of":  "Class of 2030 (college profile; rounded)",
+                                                     "source":  "https://afa.colby.edu/apply/college-profile/",
+                                                     "note":  "percent; 21,065 applicants"
+                                                 },
+                    "applicants":  {
+                                       "value":  21065,
+                                       "as_of":  "Class of 2030 (college profile)",
+                                       "source":  "https://afa.colby.edu/apply/college-profile/"
+                                   }
+                },
+    "notes":  [
+                  "No Colby Common Data Set found online; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

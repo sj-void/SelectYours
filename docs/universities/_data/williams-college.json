@@ -1,0 +1,107 @@
+{
+    "school":  "Williams College",
+    "slug":  "williams-college",
+    "unitid":  168342,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  8.25,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1490,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9, search index)",
+                                   "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                               },
+                    "sat_75":  {
+                                   "value":  1550,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9, search index)",
+                                   "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                               },
+                    "act_25":  {
+                                   "value":  34,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2076,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  183,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 8.8% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2150,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1, search index)",
+                                             "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  96.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  95.2,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  89520,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=168342 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  76300,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.williams.edu/admission-aid/financial-aid/cost-and-aid/"
+                                        },
+                    "student_faculty_ratio":  {
+                                                  "value":  7,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2, search index)",
+                                                  "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                                              },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "as_of":  "Fall 2027",
+                                                  "source":  "https://www.williams.edu/admission-aid/how-to-apply/first-year/"
+                                              },
+                    "ed_admits":  {
+                                      "value":  256,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21, search index)",
+                                      "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                                  },
+                    "coa_total_2026_27":  {
+                                              "value":  95960,
+                                              "as_of":  "2026-27 (tuition, housing, meals, fees)",
+                                              "source":  "https://www.williams.edu/admission-aid/financial-aid/cost-and-aid/"
+                                          },
+                    "ed_applicants":  {
+                                          "value":  964,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21, search index)",
+                                          "source":  "https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf (search index)"
+                                      },
+                    "intl_pct_aided":  {
+                                           "value":  70,
+                                           "as_of":  "current page",
+                                           "source":  "https://www.williams.edu/admission-aid/tuition-aid/requirements-and-deadlines/#international",
+                                           "note":  "approximately 70% of internationals; average award over $90,000"
+                                       }
+                },
+    "notes":  [
+                  "CDS PDF blocks automated download; CDS values read from the search index of the PDF.",
+                  "H6 counts not available."
+              ]
+}

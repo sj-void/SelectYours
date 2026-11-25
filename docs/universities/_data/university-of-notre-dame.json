@@ -1,0 +1,155 @@
+{
+    "school":  "University of Notre Dame",
+    "slug":  "university-of-notre-dame",
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admits":  {
+                                   "value":  null,
+                                   "note":  "Not found: CDS blocked (HTTP 403)"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  null,
+                                                "note":  "Not found: CDS blocked (HTTP 403)"
+                                            },
+                    "admit_rate":  {
+                                       "value":  null,
+                                       "note":  "Not found: CDS blocked (HTTP 403)"
+                                   },
+                    "ed_applicants":  {
+                                          "value":  null,
+                                          "note":  "Notre Dame has no Early Decision; Restrictive Early Action only (https://admissions.nd.edu/apply/decision-planning/)"
+                                      },
+                    "ed_admits":  {
+                                      "value":  null,
+                                      "note":  "No Early Decision"
+                                  },
+                    "ea_applicants":  {
+                                          "value":  null,
+                                          "note":  "Not found (Restrictive Early Action counts need CDS C22)"
+                                      },
+                    "ea_admits":  {
+                                      "value":  null,
+                                      "note":  "Not found"
+                                  },
+                    "sat_25":  {
+                                   "value":  1455,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=152080 (College Scorecard)",
+                                   "note":  "sum of section 25th percentiles (ERW 720 + Math 735); approximates the composite; CDS blocked"
+                               },
+                    "sat_75":  {
+                                   "value":  1560,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=152080 (College Scorecard)",
+                                   "note":  "sum of section 75th percentiles (ERW 770 + Math 790); approximates the composite; CDS blocked"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=152080 (College Scorecard)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=152080 (College Scorecard)"
+                               },
+                    "pct_submitting_sat":  {
+                                               "value":  null,
+                                               "note":  "Not found: CDS blocked"
+                                           },
+                    "pct_submitting_act":  {
+                                               "value":  null,
+                                               "note":  "Not found: CDS blocked"
+                                           },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "source":  "https://admissions.nd.edu/apply/standardized-testing-policy/",
+                                                  "note":  "Required again from Fall 2028; predicted scores accepted in place of SAT/ACT for IB Diploma, 3+ CGE A-levels or French Baccalaureate holders"
+                                              },
+                    "intl_applicants":  {
+                                            "value":  null,
+                                            "note":  "Not found: CDS blocked"
+                                        },
+                    "intl_admits":  {
+                                        "value":  null,
+                                        "note":  "Not found: CDS blocked"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  null,
+                                            "note":  "Not found: CDS blocked"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  null,
+                                             "note":  "Not found: CDS H6 blocked"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  null,
+                                           "note":  "Not found: CDS H6 blocked"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  null,
+                                           "note":  "Not found: CDS H6 blocked"
+                                       },
+                    "intl_undergrad_count":  {
+                                                 "value":  null,
+                                                 "note":  "Not found: CDS B2 blocked. IPEDS Fall 2025 summary gives U.S. nonresidents as 8% of undergraduates (rounded percent only)",
+                                                 "source":  "https://provost.nd.edu/assets/658600/heoa_ipeds_fall_enrollment_20252026.pdf"
+                                             },
+                    "total_undergrad":  {
+                                            "value":  8950,
+                                            "as_of":  "IPEDS Fall 2025 enrollment summary (2025-26, as submitted, before quality control)",
+                                            "source":  "https://provost.nd.edu/assets/658600/heoa_ipeds_fall_enrollment_20252026.pdf",
+                                            "note":  "The university About page gives 8,923 undergraduates (https://www.nd.edu/about/)"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  13204,
+                                             "as_of":  "IPEDS Fall 2025 enrollment summary (all students incl. graduate)",
+                                             "source":  "https://provost.nd.edu/assets/658600/heoa_ipeds_fall_enrollment_20252026.pdf"
+                                         },
+                    "coa_total_2026_27":  {
+                                              "value":  91986,
+                                              "as_of":  "2026-27 average undergraduate cost; health insurance not listed",
+                                              "source":  "https://financialaid.nd.edu/cost-of-attendance/"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  69280,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://financialaid.nd.edu/cost-of-attendance/"
+                                        },
+                    "grad_rate_4yr":  {
+                                          "value":  null,
+                                          "note":  "Not found: CDS blocked"
+                                      },
+                    "grad_rate_6yr":  {
+                                          "value":  null,
+                                          "note":  "Not found: CDS blocked"
+                                      },
+                    "retention_rate":  {
+                                           "value":  98,
+                                           "as_of":  "Fall 2024 cohort to Fall 2025 (IPEDS 2025-26 summary, rounded; CDS B22 not read)",
+                                           "source":  "https://provost.nd.edu/assets/658600/heoa_ipeds_fall_enrollment_20252026.pdf"
+                                       },
+                    "student_faculty_ratio":  {
+                                                  "value":  8,
+                                                  "as_of":  "IPEDS 2025-26 summary (8 to 1; CDS I2 not read)",
+                                                  "source":  "https://provost.nd.edu/assets/658600/heoa_ipeds_fall_enrollment_20252026.pdf"
+                                              },
+                    "applicants":  {
+                                       "value":  36102,
+                                       "as_of":  "Class of 2030 (REA + RD), school release 20 Mar 2026",
+                                       "source":  "https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/"
+                                   },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  9,
+                                                     "as_of":  "Class of 2030, school release 20 Mar 2026",
+                                                     "source":  "https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/",
+                                                     "note":  "percent, rounded by the school; no admit count given"
+                                                 }
+                },
+    "notes":  [
+                  "The Notre Dame CDS PDFs (2025-26 and 2024-25) returned HTTP 403 to automated tools; the CDS page links only to a Google Drive folder. All CDS-based metrics are null and need a manual fill from a browser.",
+                  "IPEDS figures are from the institution\u0027s printed submission dated 4/6/26, before NCES quality control.",
+                  "Full-need and no-loan wording applies to the general aid pages; the international aid page read does not state it.",
+                  "Annual Security Report, health insurance premium, College Scorecard earnings and outcomes were not found."
+              ]
+}

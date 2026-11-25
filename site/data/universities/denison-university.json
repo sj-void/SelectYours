@@ -1,0 +1,118 @@
+{
+    "school":  "Denison University",
+    "slug":  "denison-university",
+    "unitid":  202523,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "applicants":  {
+                                       "value":  12202,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                   },
+                    "admits":  {
+                                   "value":  2385,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  623,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                            },
+                    "admit_rate":  {
+                                       "value":  19.55,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf",
+                                       "note":  "percent"
+                                   },
+                    "intl_applicants":  {
+                                            "value":  5641,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                        },
+                    "intl_admits":  {
+                                        "value":  430,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  7.62,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf",
+                                            "note":  "percent, our calculation"
+                                        },
+                    "sat_25":  {
+                                   "value":  1270,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1420,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  28,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                               },
+                    "act_75":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                               },
+                    "intl_aided_count":  {
+                                             "value":  358,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  55613,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  19909430,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                       },
+                    "intl_undergrad_count":  {
+                                                 "value":  382,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                             },
+                    "total_undergrad":  {
+                                            "value":  2458,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  2458,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                         },
+                    "grad_rate_6yr":  {
+                                          "value":  78,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                      },
+                    "student_faculty_ratio":  {
+                                                  "value":  9,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://denison.edu/sites/default/files/forms/2026-08/cds_du_20252026_published_updated2026.08.14.pdf"
+                                              },
+                    "coa_total_2026_27":  {
+                                              "value":  96900,
+                                              "as_of":  "2026-27 (our sum)",
+                                              "source":  "https://catalog.denison.edu/catalog/admission-costs-financial-aid/"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  74000,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://catalog.denison.edu/catalog/admission-costs-financial-aid/"
+                                        }
+                },
+    "notes":  [
+                  "College Scorecard API was rate-limited; all metrics from CDS 2025-26."
+              ]
+}

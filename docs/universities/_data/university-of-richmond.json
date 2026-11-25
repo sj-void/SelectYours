@@ -1,0 +1,97 @@
+{
+    "school":  "University of Richmond",
+    "slug":  "university-of-richmond",
+    "unitid":  233374,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  22.20,
+                                       "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                       "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1410,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 25th percentiles (ERW 700 + Math 710); approximates the composite"
+                               },
+                    "sat_75":  {
+                                   "value":  1530,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                   "note":  "sum of section 75th percentiles (ERW 750 + Math 780); approximates the composite"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2980,
+                                            "as_of":  "Fall 2024 (IPEDS, degree-seeking undergraduates)",
+                                            "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  319,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 10.7% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  3647,
+                                             "as_of":  "Fall 2024 (IPEDS: degree-seeking undergraduates + graduate students)",
+                                             "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)"
+                                         },
+                    "retention_rate":  {
+                                           "value":  90.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  86.5,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  84768,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=233374 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "coa_total_2026_27":  {
+                                              "value":  92320,
+                                              "as_of":  "2026-27",
+                                              "source":  "https://financialaid.richmond.edu/applying/cost.html"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  70725,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://financialaid.richmond.edu/applying/cost.html"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  187,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://ifx.richmond.edu/pdfs/CDS2025-2026SectionH.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  67911,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://ifx.richmond.edu/pdfs/CDS2025-2026SectionH.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  12699322,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://ifx.richmond.edu/pdfs/CDS2025-2026SectionH.pdf"
+                                       }
+                },
+    "notes":  [
+                  "No CDS read; admissions metrics from IPEDS via College Scorecard."
+              ]
+}

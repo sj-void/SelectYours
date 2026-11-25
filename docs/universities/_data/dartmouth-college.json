@@ -1,0 +1,43 @@
+{
+  "school": "Dartmouth College",
+  "slug": "dartmouth-college",
+  "checked_on": "2026-11-23",
+  "metrics": {
+    "applicants": {"value": 28230, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "admits": {"value": 1699, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "enrolled_first_year": {"value": 1205, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "admit_rate": {"value": 6.02, "as_of": "Fall 2025 (CDS 2025-26 C1)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf", "note": "percent, admits/applicants; matches Fall 2025 Fact Card (6.02%)"},
+    "admit_rate_class_of_2030": {"value": null, "as_of": "Fall 2026, school release", "source": null, "note": "Not found (checked: https://admissions.dartmouth.edu/ and OIR pages)"},
+    "ed_applicants": {"value": 3552, "as_of": "Fall 2025 (CDS 2025-26 C21)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "ed_admits": {"value": 768, "as_of": "Fall 2025 (CDS 2025-26 C21)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "ea_applicants": {"value": null, "note": "Not applicable: no Early Action offered per CDS C22"},
+    "ea_admits": {"value": null, "note": "Not applicable: no Early Action offered per CDS C22"},
+    "sat_25": {"value": 1440, "as_of": "Fall 2025 (CDS 2025-26 C9), SAT composite", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "sat_75": {"value": 1550, "as_of": "Fall 2025 (CDS 2025-26 C9), SAT composite", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "act_25": {"value": 32, "as_of": "Fall 2025 (CDS 2025-26 C9), ACT composite", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "act_75": {"value": 35, "as_of": "Fall 2025 (CDS 2025-26 C9), ACT composite", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "pct_submitting_sat": {"value": 69, "as_of": "Fall 2025 (CDS 2025-26 C9; 826 students)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "pct_submitting_act": {"value": 33, "as_of": "Fall 2025 (CDS 2025-26 C9; 392 students)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "test_policy_fall_2027": {"value": "required (SAT or ACT; applicants from non-US schools may instead submit 3 AP exams, IB Diploma, A-levels or a national exam)", "source": "https://admissions.dartmouth.edu/apply/update-testing-policy"},
+    "intl_applicants": {"value": 8163, "as_of": "Fall 2025 (CDS 2025-26 C1 residency table)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf", "note": "International column of the optional residency table; in-state 516 + out-of-state 19,551 + international 8,163 = 28,230"},
+    "intl_admits": {"value": null, "note": "Not found: the international admits cell could not be tied to its row in the CDS text extraction"},
+    "intl_admit_rate": {"value": null, "note": "Not found (international admits not extracted)"},
+    "intl_aided_count": {"value": 483, "as_of": "CDS 2025-26 H6", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "intl_avg_award": {"value": 87562, "as_of": "CDS 2025-26 H6 (average institutional aid, nonresident undergraduates)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "intl_total_aid": {"value": 42292307, "as_of": "CDS 2025-26 H6", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "intl_undergrad_count": {"value": 648, "as_of": "CDS 2025-26 B2 (nonresidents, degree-seeking undergraduates)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf", "note": "14.5% of 4,464 degree-seeking undergraduates (our calc); 684 including non-degree-seeking"},
+    "total_undergrad": {"value": 4715, "as_of": "CDS 2025-26 B1 (all undergraduates, Oct 15, 2025)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "total_enrollment": {"value": 7273, "as_of": "CDS 2025-26 B1 (all students incl. graduate)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "coa_total_2026_27": {"value": 98946, "as_of": "2026-27, excludes health insurance ($5,216)", "source": "https://admissions.dartmouth.edu/afford/cost-attendance"},
+    "tuition_2026_27": {"value": 71697, "as_of": "2026-27", "source": "https://admissions.dartmouth.edu/afford/cost-attendance"},
+    "grad_rate_4yr": {"value": 78.5, "as_of": "Fall 2019 cohort (CDS 2025-26 B4-B11), 933 of 1,188", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf", "note": "our calc from CDS lines; column extraction was partly scrambled"},
+    "grad_rate_6yr": {"value": 95.3, "as_of": "Fall 2019 cohort (CDS 2025-26 B4-B11), 1,132 of 1,188", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf", "note": "our calc from CDS lines; Fact Card shows 96% for a recent cohort"},
+    "retention_rate": {"value": 98.0, "as_of": "Fall 2024 cohort (CDS 2025-26 B22: 1,158 of 1,182)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"},
+    "student_faculty_ratio": {"value": "7.9 to 1", "as_of": "Fall 2025 (CDS 2025-26 I2)", "source": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"}
+  },
+  "notes": [
+    "CDS 2025-26 (Fall 2025 entrants) was used. Some CDS tables extracted with scrambled columns; values marked 'our calc' or null should be re-checked against the PDF.",
+    "Dartmouth is need-blind for all non-US citizens (since the Class of 2026) and meets 100% of demonstrated need with no required loans.",
+    "International enrolled first-years: 154 of 1,205 (12.8%); Fact Card says 13%."
+  ]
+}

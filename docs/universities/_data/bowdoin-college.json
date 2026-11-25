@@ -1,0 +1,135 @@
+{
+    "school":  "Bowdoin College",
+    "slug":  "bowdoin-college",
+    "unitid":  161004,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  6.81,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf",
+                                       "note":  "percent, 957/14045"
+                                   },
+                    "sat_25":  {
+                                   "value":  1470,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1540,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161004 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161004 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1841,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  119,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2, degree-seeking nonresident undergraduates)",
+                                                 "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  1841,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1, all students)",
+                                             "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                         },
+                    "retention_rate":  {
+                                           "value":  96.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161004 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  92.8,
+                                          "as_of":  "IPEDS, via College Scorecard",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161004 (College Scorecard; saved in _data/_scorecard.json)",
+                                          "note":  "percent"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  88820,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=161004 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "tuition_2026_27":  {
+                                            "value":  74268,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.bowdoin.edu/bursar/tuition/index.html"
+                                        },
+                    "admits":  {
+                                   "value":  957,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                               },
+                    "coa_total_2026_27":  {
+                                              "value":  97900,
+                                              "as_of":  "2026-27",
+                                              "source":  "https://www.bowdoin.edu/student-aid/cost-of-attendance/index.html"
+                                          },
+                    "intl_applicants":  {
+                                            "value":  6041,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  102,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                         },
+                    "student_faculty_ratio":  {
+                                                  "value":  8,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                              },
+                    "enrolled_first_year":  {
+                                                "value":  515,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                            },
+                    "intl_avg_award":  {
+                                           "value":  84882,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                       },
+                    "intl_admit_rate":  {
+                                            "value":  1.26,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf",
+                                            "note":  "percent, our calculation 76/6041"
+                                        },
+                    "intl_admits":  {
+                                        "value":  76,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                    },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "as_of":  "Fall 2027",
+                                                  "source":  "https://www.bowdoin.edu/admissions/apply/test-optional-policy/index.html"
+                                              },
+                    "intl_total_aid":  {
+                                           "value":  8657920,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  14045,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+                                   }
+                },
+    "notes":  [
+
+              ]
+}

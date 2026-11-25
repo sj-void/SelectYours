@@ -1,0 +1,131 @@
+{
+    "school":  "Haverford College",
+    "slug":  "haverford-college",
+    "unitid":  212911,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  13.31,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf",
+                                       "note":  "percent, 896/6730"
+                                   },
+                    "sat_25":  {
+                                   "value":  1460,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1530,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  33,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=212911 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  35,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=212911 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  1420,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  156,
+                                                 "as_of":  "Fall 2024 (IPEDS)",
+                                                 "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=212911 (College Scorecard; saved in _data/_scorecard.json)",
+                                                 "note":  "our calculation: 10.9% U.S. Nonresident x undergraduates"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  1420,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                         },
+                    "retention_rate":  {
+                                           "value":  93.8,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=212911 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  92,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  93406,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=212911 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "intl_applicants":  {
+                                            "value":  3254,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                        },
+                    "intl_avg_award":  {
+                                           "value":  92126,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                       },
+                    "admits":  {
+                                   "value":  896,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf",
+                                   "note":  "men 396 + women 500"
+                               },
+                    "ed_admits":  {
+                                      "value":  229,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                      "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                  },
+                    "enrolled_first_year":  {
+                                                "value":  397,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                            },
+                    "ed_applicants":  {
+                                          "value":  702,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                          "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                      },
+                    "intl_aided_count":  {
+                                             "value":  55,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                         },
+                    "intl_total_aid":  {
+                                           "value":  5066953,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  6730,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf",
+                                       "note":  "men 3347 + women 3383"
+                                   },
+                    "student_faculty_ratio":  {
+                                                  "value":  9,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.haverford.edu/sites/default/files/Office/President/CDS-2025-26.pdf"
+                                              },
+                    "coa_total_2026_27":  {
+                                              "value":  100026,
+                                              "as_of":  "2026-27 first-years incl. indirect costs",
+                                              "source":  "https://www.haverford.edu/financial-aid/cost-of-attendance"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  74930,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.haverford.edu/financial-aid/cost-of-attendance"
+                                        }
+                },
+    "notes":  [
+
+              ]
+}

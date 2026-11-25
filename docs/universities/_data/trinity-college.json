@@ -1,0 +1,142 @@
+{
+    "school":  "Trinity College",
+    "slug":  "trinity-college",
+    "unitid":  130590,
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "admit_rate":  {
+                                       "value":  29.54,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf",
+                                       "note":  "percent"
+                                   },
+                    "sat_25":  {
+                                   "value":  1350,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1460,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C9)",
+                                   "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  30,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=130590 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "act_75":  {
+                                   "value":  34,
+                                   "as_of":  "Fall 2024 (IPEDS 2024-25, via College Scorecard)",
+                                   "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=130590 (College Scorecard; saved in _data/_scorecard.json)"
+                               },
+                    "total_undergrad":  {
+                                            "value":  2112,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                            "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                        },
+                    "intl_undergrad_count":  {
+                                                 "value":  252,
+                                                 "as_of":  "Fall 2025 (CDS 2025-26 B2)",
+                                                 "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                             },
+                    "total_enrollment":  {
+                                             "value":  2112,
+                                             "as_of":  "Fall 2025 (CDS 2025-26 B1)",
+                                             "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                         },
+                    "retention_rate":  {
+                                           "value":  90.0,
+                                           "as_of":  "IPEDS, via College Scorecard",
+                                           "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=130590 (College Scorecard; saved in _data/_scorecard.json)",
+                                           "note":  "percent"
+                                       },
+                    "grad_rate_6yr":  {
+                                          "value":  89,
+                                          "as_of":  "2019 cohort (CDS 2025-26 B)",
+                                          "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                      },
+                    "coa_scorecard":  {
+                                          "value":  91994,
+                                          "as_of":  "IPEDS, via College Scorecard (an earlier year than 2026-27)",
+                                          "source":  "https://api.data.gov/ed/collegescorecard/v1/schools?id=130590 (College Scorecard; saved in _data/_scorecard.json)"
+                                      },
+                    "admits":  {
+                                   "value":  2148,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf",
+                                   "note":  "men 922 + women 1226"
+                               },
+                    "intl_applicants":  {
+                                            "value":  3348,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  295,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf",
+                                             "note":  "exceeds the B2 nonresident count of 252; likely a different population or year"
+                                         },
+                    "student_faculty_ratio":  {
+                                                  "value":  8,
+                                                  "as_of":  "Fall 2025 (CDS 2025-26 I2)",
+                                                  "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                              },
+                    "enrolled_first_year":  {
+                                                "value":  478,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                            },
+                    "ed_admits":  {
+                                      "value":  261,
+                                      "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                      "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                  },
+                    "intl_avg_award":  {
+                                           "value":  70437,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                       },
+                    "intl_admit_rate":  {
+                                            "value":  4.99,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                            "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf",
+                                            "note":  "percent, our calculation"
+                                        },
+                    "intl_admits":  {
+                                        "value":  167,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                        "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                    },
+                    "intl_total_aid":  {
+                                           "value":  20779007,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                       },
+                    "applicants":  {
+                                       "value":  7272,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf",
+                                       "note":  "men 3393 + women 3879"
+                                   },
+                    "ed_applicants":  {
+                                          "value":  643,
+                                          "as_of":  "Fall 2025 (CDS 2025-26 C21)",
+                                          "source":  "https://www.trincoll.edu/asic/wp-content/uploads/sites/125/2026/06/CDS-2025-2026-Trinity-College.pdf"
+                                      },
+                    "coa_total_2026_27":  {
+                                              "value":  96480,
+                                              "as_of":  "2026-27 total due (first-year)",
+                                              "source":  "https://www.trincoll.edu/student-accounts/tuition-and-fees/"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  72820,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.trincoll.edu/student-accounts/tuition-and-fees/"
+                                        }
+                },
+    "notes":  [
+
+              ]
+}

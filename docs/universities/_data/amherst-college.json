@@ -1,0 +1,161 @@
+{
+    "school":  "Amherst College",
+    "slug":  "amherst-college",
+    "checked_on":  "2026-11-23",
+    "metrics":  {
+                    "applicants":  {
+                                       "value":  15819,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                   },
+                    "admits":  {
+                                   "value":  1222,
+                                   "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                   "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                               },
+                    "enrolled_first_year":  {
+                                                "value":  485,
+                                                "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                                "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                            },
+                    "admit_rate":  {
+                                       "value":  7.7,
+                                       "as_of":  "Fall 2025 (CDS 2025-26 C1)",
+                                       "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf",
+                                       "note":  "percent, admits/applicants"
+                                   },
+                    "admit_rate_class_of_2030":  {
+                                                     "value":  null,
+                                                     "as_of":  "Fall 2026, school release",
+                                                     "source":  null,
+                                                     "note":  "Not found"
+                                                 },
+                    "ed_applicants":  {
+                                          "value":  null,
+                                          "note":  "Search extract showed 971 and 216 near the ED deadline but labels were garbled; unconfirmed (CDS C21)"
+                                      },
+                    "ed_admits":  {
+                                      "value":  null,
+                                      "note":  "See ed_applicants"
+                                  },
+                    "ea_applicants":  {
+                                          "value":  null,
+                                          "note":  "Amherst has no EA"
+                                      },
+                    "ea_admits":  {
+                                      "value":  null,
+                                      "note":  "Amherst has no EA"
+                                  },
+                    "sat_25":  {
+                                   "value":  1470,
+                                   "as_of":  "CDS 2025-26 C9 (extract frames it as Fall 2024 entrants; re-check)",
+                                   "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                               },
+                    "sat_75":  {
+                                   "value":  1540,
+                                   "as_of":  "CDS 2025-26 C9 (re-check)",
+                                   "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                               },
+                    "act_25":  {
+                                   "value":  null,
+                                   "note":  "Not found"
+                               },
+                    "act_75":  {
+                                   "value":  null,
+                                   "note":  "Not found"
+                               },
+                    "pct_submitting_sat":  {
+                                               "value":  40,
+                                               "as_of":  "CDS 2025-26 C9 (192 students)",
+                                               "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                           },
+                    "pct_submitting_act":  {
+                                               "value":  16,
+                                               "as_of":  "CDS 2025-26 C9 (78 students)",
+                                               "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                           },
+                    "test_policy_fall_2027":  {
+                                                  "value":  "optional",
+                                                  "source":  "https://www.amherst.edu/admission/apply/firstyear/testing"
+                                              },
+                    "intl_applicants":  {
+                                            "value":  6346,
+                                            "as_of":  "Fall 2025 (CDS 2025-26 C1 residency table)",
+                                            "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                        },
+                    "intl_admits":  {
+                                        "value":  92,
+                                        "as_of":  "Fall 2025 (CDS 2025-26 C1 residency table)",
+                                        "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                    },
+                    "intl_admit_rate":  {
+                                            "value":  1.4,
+                                            "as_of":  "Fall 2025, our division 92/6346",
+                                            "source":  "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+                                        },
+                    "intl_aided_count":  {
+                                             "value":  204,
+                                             "as_of":  "CDS 2025-26 H6",
+                                             "source":  "https://www.amherst.edu/system/files/H.%20Financial%20Aid%202025-26_0.pdf"
+                                         },
+                    "intl_avg_award":  {
+                                           "value":  84590,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.amherst.edu/system/files/H.%20Financial%20Aid%202025-26_0.pdf"
+                                       },
+                    "intl_total_aid":  {
+                                           "value":  17256307,
+                                           "as_of":  "CDS 2025-26 H6",
+                                           "source":  "https://www.amherst.edu/system/files/H.%20Financial%20Aid%202025-26_0.pdf"
+                                       },
+                    "intl_undergrad_count":  {
+                                                 "value":  244,
+                                                 "as_of":  "CDS 2025-26 B2 (degree-seeking, Fall 2025)",
+                                                 "source":  "https://www.amherst.edu/system/files/B.%20Enrollment%20\u0026%20Persistence%202025-26_0.pdf"
+                                             },
+                    "total_undergrad":  {
+                                            "value":  1907,
+                                            "as_of":  "CDS 2025-26 B1 (Oct 15, 2025)",
+                                            "source":  "https://www.amherst.edu/system/files/B.%20Enrollment%20\u0026%20Persistence%202025-26_0.pdf"
+                                        },
+                    "total_enrollment":  {
+                                             "value":  1907,
+                                             "as_of":  "CDS 2025-26 B1 (no graduate students)",
+                                             "source":  "https://www.amherst.edu/system/files/B.%20Enrollment%20\u0026%20Persistence%202025-26_0.pdf"
+                                         },
+                    "coa_total_2026_27":  {
+                                              "value":  null,
+                                              "note":  "Total budget with books, personal and travel not found. Billed comprehensive fee $96,360 (+ $3,627 health plan if not waived)"
+                                          },
+                    "tuition_2026_27":  {
+                                            "value":  75330,
+                                            "as_of":  "2026-27",
+                                            "source":  "https://www.amherst.edu/offices/controller/student-accounts/tuition-and-fees"
+                                        },
+                    "grad_rate_4yr":  {
+                                          "value":  null,
+                                          "note":  "Not found"
+                                      },
+                    "grad_rate_6yr":  {
+                                          "value":  92.6,
+                                          "as_of":  "2019 entering cohort, CDS B (435/470, our division)",
+                                          "source":  "https://www.amherst.edu/system/files/B.%20Enrollment%20\u0026%20Persistence%202025-26_0.pdf"
+                                      },
+                    "retention_rate":  {
+                                           "value":  98.3,
+                                           "as_of":  "Fall 2024 cohort, CDS 2025-26 B22 (472/480, re-check)",
+                                           "source":  "https://www.amherst.edu/system/files/B.%20Enrollment%20\u0026%20Persistence%202025-26_0.pdf"
+                                       },
+                    "student_faculty_ratio":  {
+                                                  "value":  7,
+                                                  "as_of":  "school Fast Facts (7:1); CDS I2 not found",
+                                                  "source":  "https://www.amherst.edu/about/facts"
+                                              }
+                },
+    "notes":  [
+                  "Amherst.edu returned HTTP 405 to WebFetch; all values were read through search-engine extracts of the pages and CDS PDFs and need re-checking against the PDFs.",
+                  "CDS C1 gender columns (men 7,425/539/213; women 8,375/682/271; another gender 19/1/1) sum to the residency-table totals 15,819/1,222/485.",
+                  "Search-extract values for C9 were framed as Fall 2024 entrants; cohort year uncertain.",
+                  "Need-blind for internationals, consistent with our CSV."
+              ]
+}
